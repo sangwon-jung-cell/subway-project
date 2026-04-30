@@ -2,6 +2,7 @@
 1. 코드 가져오기:
 
   git clone https://github.com/sangwon-jung-cell/subway-project.git
+  
   cd subway-project
 
 2. 데이터 준비:
