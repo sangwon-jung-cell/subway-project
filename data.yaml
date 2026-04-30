@@ -1,0 +1,11 @@
+# 1. 최상위 경로 (컨테이너 내부 기준)
+path: /usr/src/app/yolo_dataset
+
+# 2. 각 세부 데이터 경로
+train: images/train  # 학습용 이미지
+val: images/val      # 검증용 이미지
+test: images/test    # 테스트용 이미지 (없으면 생략 가능)
+
+# 3. 클래스 정보
+nc: 2
+names: ['person', 'turnstile_trespassing']

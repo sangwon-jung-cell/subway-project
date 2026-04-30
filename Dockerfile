@@ -1,0 +1,16 @@
+# 1. YOLOv8 공식 이미지 사용 (이미 모든 환경이 갖춰져 있습니다)
+# 맥(M칩) 빌드 시 에러 방지를 위해 platform을 명시하지 않고 빌드 명령어에서 조절합니다.
+FROM ultralytics/ultralytics:latest
+
+# 2. 작업 디렉토리 설정
+WORKDIR /usr/src/app
+
+# 3. 추가 라이브러리 설치 (필요한 경우에만 pip 사용)
+# 공식 이미지에 웬만한 건 다 있어서, 일단은 비워두고 나중에 필요하면 추가하세요.
+# RUN pip install --no-cache-dir pandas
+
+# 4. 현재 폴더의 모든 파일(.py, .yaml 등)을 컨테이너 내부로 복사
+COPY . .
+
+# 5. 기본 터미널 환경 설정
+CMD ["/bin/bash"]
