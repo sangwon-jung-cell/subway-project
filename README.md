@@ -33,3 +33,15 @@ subway-project/
 ├── data.yaml              
 ├── Dockerfile
 └── json_txt_conv.py       # json 라벨링 데이터를 yolo 학습용 .txt 파일로 변환
+
+
+## 🚀 학습 방법 (Training)
+
+1. 컨테이너 실행:
+   `docker run -it --gpus all -v ${PWD}:/usr/src/app subway-yolo`
+
+2. 데이터 변환 (필요 시):
+   `python json_txt_conv.py`
+
+3. YOLOv8 학습 시작:
+   `yolo task=detect mode=train model=yolov8n.pt data=data.yaml epochs=50 imgsz=640`
