@@ -19,3 +19,17 @@
   docker run -it --gpus all -v ${PWD}:/usr/src/app subway-yolo
   
   nvidia-smi (이 명령어 쳐보고 gpu 모델명과 메모리 정표가 표로 뜬다면 성공)
+
+* 파일 구조가 이렇게 되어있어야 됨
+
+subway-project/
+├── yolo_dataset/          # data.yaml의 path와 일치
+│   ├── images/
+│   │   ├── train/         # 학습용 이미지들 (.jpg)
+│   │   └── val/           # 검증용 이미지들
+│   └── labels/
+│       ├── train/         # 학습용 라벨들 (.txt)
+│       └── val/           # 검증용 라벨들
+├── data.yaml              
+├── Dockerfile
+└── json_txt_conv.py       # json 라벨링 데이터를 yolo 학습용 .txt 파일로 변환
