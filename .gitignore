@@ -220,10 +220,10 @@ __marimo__/
 # --- Subway Project Custom Ignores ---
 
 # 원본 데이터 및 라벨링 결과물
-aihub_json_folder/
-yolo_labels/
+raw_data/
 yolo_dataset/
-images/
+*.json
+*.jpg
 
 # 맥 시스템 파일
 .DS_Store
