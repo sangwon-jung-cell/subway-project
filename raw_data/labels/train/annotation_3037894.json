@@ -1,0 +1,5496 @@
+{
+    "id": 3037894,
+    "file": "video_3037894_2642428.mp4",
+    "metadata": {
+        "width": 3840,
+        "height": 2160,
+        "duration": 320.3,
+        "fps": 30,
+        "frames": 9609,
+        "created": "Sun Jan 17 17:49:43 2021"
+    },
+    "frames": [
+        {
+            "number": 4612,
+            "image": "frame_4612.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 577,
+                        "y": 674,
+                        "width": 1527,
+                        "height": 1481
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1268,
+                        "y": 608,
+                        "width": 31,
+                        "height": 47
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1359,
+                        "y": 609,
+                        "width": 40,
+                        "height": 103
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1201,
+                        "y": 608,
+                        "width": 52,
+                        "height": 169
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1220,
+                        "y": 610,
+                        "width": 86,
+                        "height": 236
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1559,
+                        "y": 642,
+                        "width": 110,
+                        "height": 291
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4626,
+            "image": "frame_4626.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 952,
+                        "y": 669,
+                        "width": 731,
+                        "height": 1488
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1271,
+                        "y": 609,
+                        "width": 29,
+                        "height": 54
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1345,
+                        "y": 606,
+                        "width": 44,
+                        "height": 105
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1198,
+                        "y": 607,
+                        "width": 51,
+                        "height": 77
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1221,
+                        "y": 611,
+                        "width": 79,
+                        "height": 127
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1531,
+                        "y": 638,
+                        "width": 113,
+                        "height": 286
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4641,
+            "image": "frame_4641.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1214,
+                        "y": 647,
+                        "width": 859,
+                        "height": 1506
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1263,
+                        "y": 608,
+                        "width": 40,
+                        "height": 61
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1345,
+                        "y": 607,
+                        "width": 39,
+                        "height": 94
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1198,
+                        "y": 606,
+                        "width": 43,
+                        "height": 159
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1210,
+                        "y": 611,
+                        "width": 81,
+                        "height": 223
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1523,
+                        "y": 638,
+                        "width": 79,
+                        "height": 270
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4656,
+            "image": "frame_4656.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1416,
+                        "y": 640,
+                        "width": 964,
+                        "height": 1471
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1260,
+                        "y": 608,
+                        "width": 42,
+                        "height": 84
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1332,
+                        "y": 608,
+                        "width": 43,
+                        "height": 100
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1199,
+                        "y": 606,
+                        "width": 39,
+                        "height": 155
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1206,
+                        "y": 612,
+                        "width": 85,
+                        "height": 219
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1476,
+                        "y": 635,
+                        "width": 76,
+                        "height": 211
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4671,
+            "image": "frame_4671.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1599,
+                        "y": 658,
+                        "width": 502,
+                        "height": 1327
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1260,
+                        "y": 609,
+                        "width": 39,
+                        "height": 60
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1329,
+                        "y": 606,
+                        "width": 40,
+                        "height": 95
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1201,
+                        "y": 606,
+                        "width": 39,
+                        "height": 151
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1210,
+                        "y": 609,
+                        "width": 76,
+                        "height": 213
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1452,
+                        "y": 632,
+                        "width": 95,
+                        "height": 252
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4686,
+            "image": "frame_4686.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1813,
+                        "y": 638,
+                        "width": 526,
+                        "height": 1221
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1261,
+                        "y": 609,
+                        "width": 36,
+                        "height": 93
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1316,
+                        "y": 606,
+                        "width": 41,
+                        "height": 98
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1192,
+                        "y": 607,
+                        "width": 39,
+                        "height": 149
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1202,
+                        "y": 607,
+                        "width": 73,
+                        "height": 209
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1438,
+                        "y": 632,
+                        "width": 95,
+                        "height": 241
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4701,
+            "image": "frame_4701.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1872,
+                        "y": 646,
+                        "width": 697,
+                        "height": 1156
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3425,
+                        "y": 888,
+                        "width": 412,
+                        "height": 1028
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1190,
+                        "y": 606,
+                        "width": 38,
+                        "height": 137
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1253,
+                        "y": 609,
+                        "width": 34,
+                        "height": 97
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1311,
+                        "y": 605,
+                        "width": 38,
+                        "height": 94
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1197,
+                        "y": 609,
+                        "width": 72,
+                        "height": 196
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1418,
+                        "y": 631,
+                        "width": 89,
+                        "height": 231
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4716,
+            "image": "frame_4716.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1913,
+                        "y": 640,
+                        "width": 428,
+                        "height": 1026
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3239,
+                        "y": 873,
+                        "width": 459,
+                        "height": 982
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1183,
+                        "y": 605,
+                        "width": 34,
+                        "height": 106
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1248,
+                        "y": 609,
+                        "width": 34,
+                        "height": 102
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1298,
+                        "y": 606,
+                        "width": 39,
+                        "height": 93
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1192,
+                        "y": 608,
+                        "width": 67,
+                        "height": 192
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1398,
+                        "y": 629,
+                        "width": 89,
+                        "height": 225
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4731,
+            "image": "frame_4731.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2014,
+                        "y": 643,
+                        "width": 357,
+                        "height": 927
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2954,
+                        "y": 865,
+                        "width": 586,
+                        "height": 992
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1187,
+                        "y": 606,
+                        "width": 35,
+                        "height": 69
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1245,
+                        "y": 609,
+                        "width": 31,
+                        "height": 101
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1293,
+                        "y": 606,
+                        "width": 36,
+                        "height": 94
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1187,
+                        "y": 610,
+                        "width": 69,
+                        "height": 186
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1382,
+                        "y": 630,
+                        "width": 80,
+                        "height": 215
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4746,
+            "image": "frame_4746.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2049,
+                        "y": 645,
+                        "width": 351,
+                        "height": 918
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2878,
+                        "y": 818,
+                        "width": 417,
+                        "height": 1100
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1191,
+                        "y": 605,
+                        "width": 27,
+                        "height": 47
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1237,
+                        "y": 609,
+                        "width": 33,
+                        "height": 102
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1279,
+                        "y": 607,
+                        "width": 38,
+                        "height": 91
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1186,
+                        "y": 609,
+                        "width": 66,
+                        "height": 181
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1366,
+                        "y": 630,
+                        "width": 81,
+                        "height": 209
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4761,
+            "image": "frame_4761.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1985,
+                        "y": 629,
+                        "width": 298,
+                        "height": 820
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2629,
+                        "y": 797,
+                        "width": 413,
+                        "height": 1130
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1194,
+                        "y": 606,
+                        "width": 41,
+                        "height": 40
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1231,
+                        "y": 608,
+                        "width": 32,
+                        "height": 102
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1271,
+                        "y": 608,
+                        "width": 34,
+                        "height": 85
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1183,
+                        "y": 611,
+                        "width": 66,
+                        "height": 174
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1353,
+                        "y": 626,
+                        "width": 91,
+                        "height": 206
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4776,
+            "image": "frame_4776.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1833,
+                        "y": 642,
+                        "width": 437,
+                        "height": 781
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2311,
+                        "y": 765,
+                        "width": 349,
+                        "height": 1128
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1182,
+                        "y": 606,
+                        "width": 27,
+                        "height": 73
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1227,
+                        "y": 609,
+                        "width": 33,
+                        "height": 95
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1261,
+                        "y": 607,
+                        "width": 34,
+                        "height": 85
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1186,
+                        "y": 612,
+                        "width": 61,
+                        "height": 168
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1340,
+                        "y": 628,
+                        "width": 96,
+                        "height": 197
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4791,
+            "image": "frame_4791.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1166,
+                        "y": 605,
+                        "width": 38,
+                        "height": 106
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1216,
+                        "y": 608,
+                        "width": 35,
+                        "height": 99
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1259,
+                        "y": 608,
+                        "width": 34,
+                        "height": 82
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1182,
+                        "y": 610,
+                        "width": 62,
+                        "height": 163
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1338,
+                        "y": 625,
+                        "width": 92,
+                        "height": 199
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1917,
+                        "y": 632,
+                        "width": 215,
+                        "height": 670
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1937,
+                        "y": 746,
+                        "width": 404,
+                        "height": 1095
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4806,
+            "image": "frame_4806.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1139,
+                        "y": 606,
+                        "width": 42,
+                        "height": 124
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1217,
+                        "y": 609,
+                        "width": 19,
+                        "height": 31
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1260,
+                        "y": 608,
+                        "width": 32,
+                        "height": 81
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1186,
+                        "y": 608,
+                        "width": 61,
+                        "height": 159
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1328,
+                        "y": 624,
+                        "width": 74,
+                        "height": 190
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1900,
+                        "y": 620,
+                        "width": 195,
+                        "height": 665
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1597,
+                        "y": 729,
+                        "width": 419,
+                        "height": 1070
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4821,
+            "image": "frame_4821.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1742,
+                        "y": 620,
+                        "width": 338,
+                        "height": 671
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1410,
+                        "y": 718,
+                        "width": 392,
+                        "height": 965
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1117,
+                        "y": 605,
+                        "width": 32,
+                        "height": 119
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1184,
+                        "y": 608,
+                        "width": 58,
+                        "height": 156
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1261,
+                        "y": 608,
+                        "width": 32,
+                        "height": 79
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1331,
+                        "y": 621,
+                        "width": 72,
+                        "height": 189
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4836,
+            "image": "frame_4836.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1776,
+                        "y": 614,
+                        "width": 299,
+                        "height": 612
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1247,
+                        "y": 709,
+                        "width": 351,
+                        "height": 900
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1183,
+                        "y": 609,
+                        "width": 58,
+                        "height": 150
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1265,
+                        "y": 609,
+                        "width": 33,
+                        "height": 80
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1329,
+                        "y": 620,
+                        "width": 71,
+                        "height": 179
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4851,
+            "image": "frame_4851.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1761,
+                        "y": 620,
+                        "width": 219,
+                        "height": 592
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1166,
+                        "y": 695,
+                        "width": 358,
+                        "height": 802
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1162,
+                        "y": 608,
+                        "width": 34,
+                        "height": 98
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1173,
+                        "y": 607,
+                        "width": 64,
+                        "height": 148
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1266,
+                        "y": 608,
+                        "width": 29,
+                        "height": 93
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1339,
+                        "y": 620,
+                        "width": 64,
+                        "height": 97
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4866,
+            "image": "frame_4866.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1674,
+                        "y": 611,
+                        "width": 256,
+                        "height": 574
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1147,
+                        "y": 608,
+                        "width": 36,
+                        "height": 100
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1177,
+                        "y": 606,
+                        "width": 54,
+                        "height": 144
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1271,
+                        "y": 607,
+                        "width": 30,
+                        "height": 78
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1333,
+                        "y": 620,
+                        "width": 65,
+                        "height": 168
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1166,
+                        "y": 683,
+                        "width": 250,
+                        "height": 723
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4881,
+            "image": "frame_4881.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1600,
+                        "y": 615,
+                        "width": 325,
+                        "height": 534
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1162,
+                        "y": 674,
+                        "width": 221,
+                        "height": 652
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1130,
+                        "y": 609,
+                        "width": 32,
+                        "height": 95
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1267,
+                        "y": 607,
+                        "width": 28,
+                        "height": 72
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1173,
+                        "y": 607,
+                        "width": 54,
+                        "height": 137
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1329,
+                        "y": 620,
+                        "width": 62,
+                        "height": 168
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4896,
+            "image": "frame_4896.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1668,
+                        "y": 619,
+                        "width": 244,
+                        "height": 518
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1173,
+                        "y": 607,
+                        "width": 50,
+                        "height": 109
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1273,
+                        "y": 609,
+                        "width": 28,
+                        "height": 81
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1321,
+                        "y": 620,
+                        "width": 60,
+                        "height": 157
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1141,
+                        "y": 663,
+                        "width": 212,
+                        "height": 595
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4911,
+            "image": "frame_4911.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1628,
+                        "y": 610,
+                        "width": 177,
+                        "height": 497
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1159,
+                        "y": 605,
+                        "width": 48,
+                        "height": 114
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1268,
+                        "y": 607,
+                        "width": 29,
+                        "height": 59
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1319,
+                        "y": 618,
+                        "width": 58,
+                        "height": 155
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1156,
+                        "y": 656,
+                        "width": 191,
+                        "height": 545
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4926,
+            "image": "frame_4926.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1540,
+                        "y": 616,
+                        "width": 263,
+                        "height": 482
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1150,
+                        "y": 606,
+                        "width": 52,
+                        "height": 131
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1274,
+                        "y": 604,
+                        "width": 28,
+                        "height": 74
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1315,
+                        "y": 618,
+                        "width": 60,
+                        "height": 151
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1151,
+                        "y": 655,
+                        "width": 167,
+                        "height": 498
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4941,
+            "image": "frame_4941.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1631,
+                        "y": 612,
+                        "width": 179,
+                        "height": 456
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1138,
+                        "y": 608,
+                        "width": 42,
+                        "height": 127
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1267,
+                        "y": 607,
+                        "width": 27,
+                        "height": 73
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1320,
+                        "y": 618,
+                        "width": 58,
+                        "height": 147
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1157,
+                        "y": 653,
+                        "width": 155,
+                        "height": 472
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4956,
+            "image": "frame_4956.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1611,
+                        "y": 609,
+                        "width": 281,
+                        "height": 429
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1126,
+                        "y": 609,
+                        "width": 46,
+                        "height": 126
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1269,
+                        "y": 605,
+                        "width": 27,
+                        "height": 71
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1317,
+                        "y": 618,
+                        "width": 57,
+                        "height": 143
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1154,
+                        "y": 652,
+                        "width": 143,
+                        "height": 448
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4971,
+            "image": "frame_4971.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1646,
+                        "y": 614,
+                        "width": 153,
+                        "height": 422
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1120,
+                        "y": 607,
+                        "width": 33,
+                        "height": 116
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1267,
+                        "y": 607,
+                        "width": 25,
+                        "height": 68
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1321,
+                        "y": 617,
+                        "width": 55,
+                        "height": 139
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1143,
+                        "y": 649,
+                        "width": 162,
+                        "height": 424
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4986,
+            "image": "frame_4986.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1716,
+                        "y": 610,
+                        "width": 235,
+                        "height": 413
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1271,
+                        "y": 605,
+                        "width": 25,
+                        "height": 69
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1318,
+                        "y": 616,
+                        "width": 54,
+                        "height": 138
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1171,
+                        "y": 646,
+                        "width": 141,
+                        "height": 394
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5001,
+            "image": "frame_5001.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1752,
+                        "y": 613,
+                        "width": 317,
+                        "height": 406
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1271,
+                        "y": 608,
+                        "width": 27,
+                        "height": 68
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1320,
+                        "y": 615,
+                        "width": 52,
+                        "height": 138
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1155,
+                        "y": 642,
+                        "width": 148,
+                        "height": 374
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5016,
+            "image": "frame_5016.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1808,
+                        "y": 615,
+                        "width": 247,
+                        "height": 389
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1273,
+                        "y": 606,
+                        "width": 24,
+                        "height": 68
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1315,
+                        "y": 616,
+                        "width": 52,
+                        "height": 136
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1177,
+                        "y": 638,
+                        "width": 130,
+                        "height": 356
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5031,
+            "image": "frame_5031.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1891,
+                        "y": 614,
+                        "width": 219,
+                        "height": 391
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1276,
+                        "y": 608,
+                        "width": 26,
+                        "height": 70
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1316,
+                        "y": 615,
+                        "width": 50,
+                        "height": 128
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1179,
+                        "y": 638,
+                        "width": 120,
+                        "height": 335
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5046,
+            "image": "frame_5046.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1914,
+                        "y": 622,
+                        "width": 305,
+                        "height": 414
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1274,
+                        "y": 608,
+                        "width": 26,
+                        "height": 59
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1314,
+                        "y": 615,
+                        "width": 50,
+                        "height": 124
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1203,
+                        "y": 633,
+                        "width": 117,
+                        "height": 322
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5061,
+            "image": "frame_5061.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1978,
+                        "y": 620,
+                        "width": 318,
+                        "height": 387
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1280,
+                        "y": 607,
+                        "width": 26,
+                        "height": 59
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1321,
+                        "y": 614,
+                        "width": 46,
+                        "height": 121
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1220,
+                        "y": 632,
+                        "width": 113,
+                        "height": 306
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5076,
+            "image": "frame_5076.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2010,
+                        "y": 624,
+                        "width": 247,
+                        "height": 429
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1277,
+                        "y": 608,
+                        "width": 24,
+                        "height": 52
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1320,
+                        "y": 615,
+                        "width": 46,
+                        "height": 99
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1250,
+                        "y": 630,
+                        "width": 111,
+                        "height": 290
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5091,
+            "image": "frame_5091.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2044,
+                        "y": 624,
+                        "width": 302,
+                        "height": 404
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1282,
+                        "y": 608,
+                        "width": 26,
+                        "height": 58
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1324,
+                        "y": 614,
+                        "width": 43,
+                        "height": 79
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1266,
+                        "y": 630,
+                        "width": 107,
+                        "height": 282
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5106,
+            "image": "frame_5106.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2089,
+                        "y": 630,
+                        "width": 232,
+                        "height": 429
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1278,
+                        "y": 607,
+                        "width": 24,
+                        "height": 63
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1330,
+                        "y": 614,
+                        "width": 33,
+                        "height": 65
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1280,
+                        "y": 631,
+                        "width": 104,
+                        "height": 268
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5121,
+            "image": "frame_5121.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2159,
+                        "y": 629,
+                        "width": 191,
+                        "height": 426
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1283,
+                        "y": 607,
+                        "width": 23,
+                        "height": 59
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1326,
+                        "y": 614,
+                        "width": 37,
+                        "height": 60
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1290,
+                        "y": 632,
+                        "width": 97,
+                        "height": 257
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5136,
+            "image": "frame_5136.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2175,
+                        "y": 633,
+                        "width": 225,
+                        "height": 442
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1278,
+                        "y": 607,
+                        "width": 24,
+                        "height": 59
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1320,
+                        "y": 614,
+                        "width": 42,
+                        "height": 57
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1296,
+                        "y": 632,
+                        "width": 94,
+                        "height": 248
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5151,
+            "image": "frame_5151.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2179,
+                        "y": 630,
+                        "width": 243,
+                        "height": 438
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1282,
+                        "y": 606,
+                        "width": 23,
+                        "height": 59
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1321,
+                        "y": 614,
+                        "width": 30,
+                        "height": 57
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1309,
+                        "y": 627,
+                        "width": 91,
+                        "height": 243
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5166,
+            "image": "frame_5166.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2225,
+                        "y": 638,
+                        "width": 296,
+                        "height": 451
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1277,
+                        "y": 606,
+                        "width": 24,
+                        "height": 59
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1316,
+                        "y": 613,
+                        "width": 31,
+                        "height": 66
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1312,
+                        "y": 624,
+                        "width": 90,
+                        "height": 237
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1833,
+                        "y": 600,
+                        "width": 42,
+                        "height": 51
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5181,
+            "image": "frame_5181.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2289,
+                        "y": 638,
+                        "width": 168,
+                        "height": 492
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1815,
+                        "y": 601,
+                        "width": 48,
+                        "height": 46
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1278,
+                        "y": 606,
+                        "width": 23,
+                        "height": 57
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1322,
+                        "y": 613,
+                        "width": 39,
+                        "height": 61
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1326,
+                        "y": 622,
+                        "width": 86,
+                        "height": 229
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5196,
+            "image": "frame_5196.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2297,
+                        "y": 642,
+                        "width": 319,
+                        "height": 463
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1275,
+                        "y": 607,
+                        "width": 23,
+                        "height": 57
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1325,
+                        "y": 612,
+                        "width": 34,
+                        "height": 63
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1326,
+                        "y": 622,
+                        "width": 87,
+                        "height": 223
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5211,
+            "image": "frame_5211.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2302,
+                        "y": 638,
+                        "width": 179,
+                        "height": 521
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1271,
+                        "y": 606,
+                        "width": 24,
+                        "height": 57
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1334,
+                        "y": 611,
+                        "width": 40,
+                        "height": 71
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1338,
+                        "y": 621,
+                        "width": 85,
+                        "height": 219
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5226,
+            "image": "frame_5226.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2175,
+                        "y": 644,
+                        "width": 327,
+                        "height": 511
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1270,
+                        "y": 606,
+                        "width": 21,
+                        "height": 58
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1338,
+                        "y": 611,
+                        "width": 39,
+                        "height": 71
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1343,
+                        "y": 620,
+                        "width": 83,
+                        "height": 218
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5241,
+            "image": "frame_5241.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2346,
+                        "y": 642,
+                        "width": 178,
+                        "height": 539
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1261,
+                        "y": 606,
+                        "width": 23,
+                        "height": 55
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1341,
+                        "y": 611,
+                        "width": 34,
+                        "height": 58
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1345,
+                        "y": 621,
+                        "width": 81,
+                        "height": 211
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5256,
+            "image": "frame_5256.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2197,
+                        "y": 646,
+                        "width": 293,
+                        "height": 510
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1257,
+                        "y": 607,
+                        "width": 21,
+                        "height": 56
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1340,
+                        "y": 611,
+                        "width": 40,
+                        "height": 97
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1361,
+                        "y": 622,
+                        "width": 80,
+                        "height": 210
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5271,
+            "image": "frame_5271.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1974,
+                        "y": 636,
+                        "width": 429,
+                        "height": 520
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1245,
+                        "y": 607,
+                        "width": 24,
+                        "height": 54
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1340,
+                        "y": 611,
+                        "width": 38,
+                        "height": 95
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1366,
+                        "y": 622,
+                        "width": 83,
+                        "height": 210
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5286,
+            "image": "frame_5286.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1934,
+                        "y": 635,
+                        "width": 418,
+                        "height": 535
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1236,
+                        "y": 607,
+                        "width": 23,
+                        "height": 55
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1335,
+                        "y": 611,
+                        "width": 39,
+                        "height": 92
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1366,
+                        "y": 624,
+                        "width": 81,
+                        "height": 208
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5301,
+            "image": "frame_5301.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1859,
+                        "y": 628,
+                        "width": 432,
+                        "height": 557
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1220,
+                        "y": 606,
+                        "width": 24,
+                        "height": 55
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1333,
+                        "y": 610,
+                        "width": 37,
+                        "height": 92
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1365,
+                        "y": 627,
+                        "width": 85,
+                        "height": 204
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5316,
+            "image": "frame_5316.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1836,
+                        "y": 629,
+                        "width": 388,
+                        "height": 556
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1204,
+                        "y": 607,
+                        "width": 24,
+                        "height": 55
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1329,
+                        "y": 609,
+                        "width": 38,
+                        "height": 93
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1359,
+                        "y": 626,
+                        "width": 89,
+                        "height": 204
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5331,
+            "image": "frame_5331.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1723,
+                        "y": 621,
+                        "width": 403,
+                        "height": 556
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1189,
+                        "y": 607,
+                        "width": 18,
+                        "height": 55
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1330,
+                        "y": 610,
+                        "width": 36,
+                        "height": 81
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1342,
+                        "y": 620,
+                        "width": 80,
+                        "height": 206
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5346,
+            "image": "frame_5346.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1622,
+                        "y": 618,
+                        "width": 417,
+                        "height": 553
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1171,
+                        "y": 605,
+                        "width": 17,
+                        "height": 58
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1327,
+                        "y": 610,
+                        "width": 35,
+                        "height": 62
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1333,
+                        "y": 622,
+                        "width": 71,
+                        "height": 202
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5361,
+            "image": "frame_5361.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1717,
+                        "y": 616,
+                        "width": 239,
+                        "height": 553
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1152,
+                        "y": 606,
+                        "width": 17,
+                        "height": 59
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1329,
+                        "y": 609,
+                        "width": 34,
+                        "height": 64
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1330,
+                        "y": 622,
+                        "width": 72,
+                        "height": 198
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5376,
+            "image": "frame_5376.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1711,
+                        "y": 613,
+                        "width": 201,
+                        "height": 515
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1132,
+                        "y": 606,
+                        "width": 19,
+                        "height": 57
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1325,
+                        "y": 610,
+                        "width": 34,
+                        "height": 64
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1326,
+                        "y": 621,
+                        "width": 71,
+                        "height": 189
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5391,
+            "image": "frame_5391.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1584,
+                        "y": 615,
+                        "width": 275,
+                        "height": 501
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1326,
+                        "y": 609,
+                        "width": 34,
+                        "height": 66
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1331,
+                        "y": 620,
+                        "width": 66,
+                        "height": 186
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5406,
+            "image": "frame_5406.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1326,
+                        "y": 610,
+                        "width": 33,
+                        "height": 51
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1327,
+                        "y": 621,
+                        "width": 67,
+                        "height": 177
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1613,
+                        "y": 608,
+                        "width": 174,
+                        "height": 494
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5421,
+            "image": "frame_5421.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1329,
+                        "y": 609,
+                        "width": 34,
+                        "height": 81
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1334,
+                        "y": 618,
+                        "width": 63,
+                        "height": 174
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1624,
+                        "y": 609,
+                        "width": 167,
+                        "height": 459
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5436,
+            "image": "frame_5436.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1542,
+                        "y": 616,
+                        "width": 250,
+                        "height": 443
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1328,
+                        "y": 609,
+                        "width": 31,
+                        "height": 59
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1332,
+                        "y": 618,
+                        "width": 63,
+                        "height": 169
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5451,
+            "image": "frame_5451.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1565,
+                        "y": 609,
+                        "width": 149,
+                        "height": 430
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1332,
+                        "y": 609,
+                        "width": 30,
+                        "height": 78
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1335,
+                        "y": 617,
+                        "width": 62,
+                        "height": 166
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5466,
+            "image": "frame_5466.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1569,
+                        "y": 608,
+                        "width": 153,
+                        "height": 404
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1334,
+                        "y": 611,
+                        "width": 25,
+                        "height": 45
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1331,
+                        "y": 618,
+                        "width": 62,
+                        "height": 160
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5481,
+            "image": "frame_5481.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1517,
+                        "y": 613,
+                        "width": 186,
+                        "height": 394
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1347,
+                        "y": 610,
+                        "width": 23,
+                        "height": 32
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1334,
+                        "y": 617,
+                        "width": 58,
+                        "height": 157
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5496,
+            "image": "frame_5496.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1365,
+                        "y": 609,
+                        "width": 22,
+                        "height": 42
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1330,
+                        "y": 615,
+                        "width": 58,
+                        "height": 154
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1498,
+                        "y": 604,
+                        "width": 143,
+                        "height": 389
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5511,
+            "image": "frame_5511.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1503,
+                        "y": 608,
+                        "width": 140,
+                        "height": 370
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1382,
+                        "y": 609,
+                        "width": 22,
+                        "height": 23
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1327,
+                        "y": 614,
+                        "width": 64,
+                        "height": 152
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5526,
+            "image": "frame_5526.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1478,
+                        "y": 607,
+                        "width": 154,
+                        "height": 359
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1327,
+                        "y": 614,
+                        "width": 69,
+                        "height": 147
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1394,
+                        "y": 609,
+                        "width": 19,
+                        "height": 26
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5541,
+            "image": "frame_5541.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1455,
+                        "y": 605,
+                        "width": 127,
+                        "height": 344
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1330,
+                        "y": 614,
+                        "width": 63,
+                        "height": 141
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5556,
+            "image": "frame_5556.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1462,
+                        "y": 611,
+                        "width": 162,
+                        "height": 335
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1329,
+                        "y": 614,
+                        "width": 67,
+                        "height": 140
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5571,
+            "image": "frame_5571.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1458,
+                        "y": 605,
+                        "width": 144,
+                        "height": 325
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1335,
+                        "y": 615,
+                        "width": 52,
+                        "height": 138
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5586,
+            "image": "frame_5586.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1431,
+                        "y": 606,
+                        "width": 113,
+                        "height": 313
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1327,
+                        "y": 615,
+                        "width": 70,
+                        "height": 135
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5601,
+            "image": "frame_5601.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1433,
+                        "y": 610,
+                        "width": 114,
+                        "height": 305
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1333,
+                        "y": 615,
+                        "width": 52,
+                        "height": 129
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5615,
+            "image": "frame_5615.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1324,
+                        "y": 615,
+                        "width": 63,
+                        "height": 127
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1439,
+                        "y": 604,
+                        "width": 118,
+                        "height": 296
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 240,
+                        "y": 749,
+                        "width": 49,
+                        "height": 174
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5630,
+            "image": "frame_5630.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1332,
+                        "y": 614,
+                        "width": 49,
+                        "height": 125
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1410,
+                        "y": 606,
+                        "width": 106,
+                        "height": 285
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 237,
+                        "y": 693,
+                        "width": 59,
+                        "height": 266
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5645,
+            "image": "frame_5645.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1321,
+                        "y": 614,
+                        "width": 61,
+                        "height": 120
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1408,
+                        "y": 609,
+                        "width": 100,
+                        "height": 281
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 239,
+                        "y": 689,
+                        "width": 55,
+                        "height": 272
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5660,
+            "image": "frame_5660.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1325,
+                        "y": 613,
+                        "width": 46,
+                        "height": 120
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1420,
+                        "y": 605,
+                        "width": 108,
+                        "height": 272
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5675,
+            "image": "frame_5675.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1312,
+                        "y": 613,
+                        "width": 58,
+                        "height": 116
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1385,
+                        "y": 605,
+                        "width": 113,
+                        "height": 263
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 241,
+                        "y": 677,
+                        "width": 54,
+                        "height": 235
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5690,
+            "image": "frame_5690.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1310,
+                        "y": 612,
+                        "width": 49,
+                        "height": 115
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1400,
+                        "y": 606,
+                        "width": 125,
+                        "height": 261
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 236,
+                        "y": 677,
+                        "width": 60,
+                        "height": 237
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5705,
+            "image": "frame_5705.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1299,
+                        "y": 612,
+                        "width": 53,
+                        "height": 115
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1415,
+                        "y": 605,
+                        "width": 96,
+                        "height": 253
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 237,
+                        "y": 677,
+                        "width": 58,
+                        "height": 243
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5720,
+            "image": "frame_5720.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1410,
+                        "y": 605,
+                        "width": 91,
+                        "height": 243
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1295,
+                        "y": 612,
+                        "width": 49,
+                        "height": 97
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 236,
+                        "y": 679,
+                        "width": 60,
+                        "height": 284
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5735,
+            "image": "frame_5735.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1431,
+                        "y": 606,
+                        "width": 131,
+                        "height": 242
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1288,
+                        "y": 612,
+                        "width": 51,
+                        "height": 97
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 236,
+                        "y": 676,
+                        "width": 58,
+                        "height": 286
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5750,
+            "image": "frame_5750.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1450,
+                        "y": 605,
+                        "width": 115,
+                        "height": 230
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1285,
+                        "y": 611,
+                        "width": 46,
+                        "height": 90
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 233,
+                        "y": 676,
+                        "width": 61,
+                        "height": 281
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5765,
+            "image": "frame_5765.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1453,
+                        "y": 605,
+                        "width": 89,
+                        "height": 227
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1277,
+                        "y": 612,
+                        "width": 48,
+                        "height": 90
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 237,
+                        "y": 676,
+                        "width": 58,
+                        "height": 286
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5780,
+            "image": "frame_5780.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1272,
+                        "y": 611,
+                        "width": 45,
+                        "height": 93
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 236,
+                        "y": 681,
+                        "width": 58,
+                        "height": 283
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1469,
+                        "y": 607,
+                        "width": 140,
+                        "height": 225
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5795,
+            "image": "frame_5795.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 243,
+                        "y": 709,
+                        "width": 51,
+                        "height": 193
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1265,
+                        "y": 612,
+                        "width": 49,
+                        "height": 92
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1481,
+                        "y": 607,
+                        "width": 124,
+                        "height": 218
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5810,
+            "image": "frame_5810.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 244,
+                        "y": 713,
+                        "width": 52,
+                        "height": 184
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1265,
+                        "y": 611,
+                        "width": 44,
+                        "height": 92
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1469,
+                        "y": 609,
+                        "width": 124,
+                        "height": 214
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5825,
+            "image": "frame_5825.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 243,
+                        "y": 711,
+                        "width": 51,
+                        "height": 178
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1264,
+                        "y": 611,
+                        "width": 41,
+                        "height": 93
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1482,
+                        "y": 611,
+                        "width": 101,
+                        "height": 212
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5840,
+            "image": "frame_5840.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 243,
+                        "y": 712,
+                        "width": 50,
+                        "height": 179
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1260,
+                        "y": 611,
+                        "width": 42,
+                        "height": 94
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1490,
+                        "y": 609,
+                        "width": 103,
+                        "height": 215
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5855,
+            "image": "frame_5855.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 241,
+                        "y": 715,
+                        "width": 53,
+                        "height": 194
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1262,
+                        "y": 611,
+                        "width": 38,
+                        "height": 91
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1497,
+                        "y": 604,
+                        "width": 108,
+                        "height": 218
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5870,
+            "image": "frame_5870.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 244,
+                        "y": 718,
+                        "width": 51,
+                        "height": 188
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1256,
+                        "y": 611,
+                        "width": 44,
+                        "height": 91
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1512,
+                        "y": 606,
+                        "width": 82,
+                        "height": 212
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5885,
+            "image": "frame_5885.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1261,
+                        "y": 610,
+                        "width": 37,
+                        "height": 92
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1500,
+                        "y": 607,
+                        "width": 99,
+                        "height": 204
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5900,
+            "image": "frame_5900.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1257,
+                        "y": 610,
+                        "width": 40,
+                        "height": 92
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1500,
+                        "y": 607,
+                        "width": 81,
+                        "height": 202
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5915,
+            "image": "frame_5915.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1265,
+                        "y": 610,
+                        "width": 34,
+                        "height": 91
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1463,
+                        "y": 607,
+                        "width": 99,
+                        "height": 200
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5930,
+            "image": "frame_5930.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 235,
+                        "y": 695,
+                        "width": 61,
+                        "height": 263
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1262,
+                        "y": 610,
+                        "width": 39,
+                        "height": 92
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1462,
+                        "y": 606,
+                        "width": 79,
+                        "height": 198
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5945,
+            "image": "frame_5945.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 245,
+                        "y": 774,
+                        "width": 47,
+                        "height": 185
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1271,
+                        "y": 609,
+                        "width": 34,
+                        "height": 84
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1394,
+                        "y": 603,
+                        "width": 104,
+                        "height": 190
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5960,
+            "image": "frame_5960.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1268,
+                        "y": 609,
+                        "width": 44,
+                        "height": 85
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1326,
+                        "y": 604,
+                        "width": 133,
+                        "height": 159
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5975,
+            "image": "frame_5975.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1284,
+                        "y": 609,
+                        "width": 34,
+                        "height": 73
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1326,
+                        "y": 605,
+                        "width": 89,
+                        "height": 194
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5990,
+            "image": "frame_5990.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1280,
+                        "y": 609,
+                        "width": 39,
+                        "height": 73
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1235,
+                        "y": 608,
+                        "width": 147,
+                        "height": 191
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6005,
+            "image": "frame_6005.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1301,
+                        "y": 607,
+                        "width": 29,
+                        "height": 62
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1205,
+                        "y": 609,
+                        "width": 123,
+                        "height": 186
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6020,
+            "image": "frame_6020.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1303,
+                        "y": 608,
+                        "width": 39,
+                        "height": 80
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1199,
+                        "y": 607,
+                        "width": 74,
+                        "height": 196
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20979"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

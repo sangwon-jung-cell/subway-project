@@ -1,0 +1,1361 @@
+{
+    "id": 2249507,
+    "file": "video_2249507_2051166.mp4",
+    "metadata": {
+        "width": 3840,
+        "height": 2160,
+        "duration": 304.6,
+        "fps": 30,
+        "frames": 9138,
+        "created": "Tue Oct 20 15:33:14 2020"
+    },
+    "frames": [
+        {
+            "number": 2988,
+            "image": "frame_2988.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2476,
+                        "y": 1203,
+                        "width": 494,
+                        "height": 830
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20797"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3002,
+            "image": "frame_3002.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2460,
+                        "y": 1105,
+                        "width": 444,
+                        "height": 768
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20797"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3017,
+            "image": "frame_3017.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2443,
+                        "y": 1032,
+                        "width": 395,
+                        "height": 708
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20797"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3032,
+            "image": "frame_3032.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2431,
+                        "y": 976,
+                        "width": 372,
+                        "height": 670
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20797"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3047,
+            "image": "frame_3047.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2410,
+                        "y": 928,
+                        "width": 433,
+                        "height": 643
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20797"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3062,
+            "image": "frame_3062.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2405,
+                        "y": 898,
+                        "width": 467,
+                        "height": 617
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20797"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3077,
+            "image": "frame_3077.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2396,
+                        "y": 872,
+                        "width": 385,
+                        "height": 604
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20797"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3092,
+            "image": "frame_3092.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2391,
+                        "y": 855,
+                        "width": 329,
+                        "height": 604
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20797"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3107,
+            "image": "frame_3107.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2391,
+                        "y": 836,
+                        "width": 329,
+                        "height": 604
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20797"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3122,
+            "image": "frame_3122.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2386,
+                        "y": 834,
+                        "width": 329,
+                        "height": 604
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20797"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3137,
+            "image": "frame_3137.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2375,
+                        "y": 818,
+                        "width": 329,
+                        "height": 582
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20797"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3152,
+            "image": "frame_3152.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2364,
+                        "y": 782,
+                        "width": 308,
+                        "height": 552
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20797"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3167,
+            "image": "frame_3167.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2339,
+                        "y": 736,
+                        "width": 285,
+                        "height": 504
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20797"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3182,
+            "image": "frame_3182.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2295,
+                        "y": 679,
+                        "width": 257,
+                        "height": 466
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20797"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3197,
+            "image": "frame_3197.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2137,
+                        "y": 627,
+                        "width": 280,
+                        "height": 437
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20797"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3212,
+            "image": "frame_3212.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1942,
+                        "y": 582,
+                        "width": 260,
+                        "height": 417
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20797"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3227,
+            "image": "frame_3227.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1755,
+                        "y": 548,
+                        "width": 301,
+                        "height": 394
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20797"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3242,
+            "image": "frame_3242.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1567,
+                        "y": 520,
+                        "width": 293,
+                        "height": 358
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20797"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3257,
+            "image": "frame_3257.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1384,
+                        "y": 496,
+                        "width": 289,
+                        "height": 368
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20797"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3272,
+            "image": "frame_3272.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1216,
+                        "y": 483,
+                        "width": 281,
+                        "height": 353
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20797"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3287,
+            "image": "frame_3287.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1063,
+                        "y": 468,
+                        "width": 267,
+                        "height": 346
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20797"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3302,
+            "image": "frame_3302.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1030,
+                        "y": 454,
+                        "width": 145,
+                        "height": 321
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20797"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3362,
+            "image": "frame_3362.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 533,
+                        "y": 394,
+                        "width": 98,
+                        "height": 282
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20797"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3377,
+            "image": "frame_3377.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 461,
+                        "y": 384,
+                        "width": 170,
+                        "height": 273
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20797"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3392,
+            "image": "frame_3392.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 409,
+                        "y": 371,
+                        "width": 179,
+                        "height": 263
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20797"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3407,
+            "image": "frame_3407.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 353,
+                        "y": 361,
+                        "width": 175,
+                        "height": 259
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20797"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3422,
+            "image": "frame_3422.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 290,
+                        "y": 356,
+                        "width": 179,
+                        "height": 245
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20797"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3437,
+            "image": "frame_3437.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 237,
+                        "y": 346,
+                        "width": 179,
+                        "height": 245
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20797"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3452,
+            "image": "frame_3452.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 187,
+                        "y": 338,
+                        "width": 169,
+                        "height": 235
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20797"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3467,
+            "image": "frame_3467.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 131,
+                        "y": 330,
+                        "width": 169,
+                        "height": 235
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20797"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3482,
+            "image": "frame_3482.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 76,
+                        "y": 325,
+                        "width": 162,
+                        "height": 224
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20797"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6250,
+            "image": "frame_6250.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2618,
+                        "y": 789,
+                        "width": 371,
+                        "height": 1075
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20805"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6264,
+            "image": "frame_6264.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2536,
+                        "y": 777,
+                        "width": 453,
+                        "height": 1043
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20805"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6279,
+            "image": "frame_6279.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2448,
+                        "y": 763,
+                        "width": 530,
+                        "height": 1022
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20805"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6294,
+            "image": "frame_6294.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2390,
+                        "y": 724,
+                        "width": 492,
+                        "height": 967
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20805"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6309,
+            "image": "frame_6309.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2357,
+                        "y": 668,
+                        "width": 412,
+                        "height": 898
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20805"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6324,
+            "image": "frame_6324.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2310,
+                        "y": 622,
+                        "width": 369,
+                        "height": 827
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20805"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6339,
+            "image": "frame_6339.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2303,
+                        "y": 579,
+                        "width": 319,
+                        "height": 763
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20805"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6354,
+            "image": "frame_6354.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2231,
+                        "y": 542,
+                        "width": 337,
+                        "height": 706
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20805"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6369,
+            "image": "frame_6369.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2151,
+                        "y": 511,
+                        "width": 362,
+                        "height": 659
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20805"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6384,
+            "image": "frame_6384.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2010,
+                        "y": 490,
+                        "width": 411,
+                        "height": 586
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20805"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6399,
+            "image": "frame_6399.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1883,
+                        "y": 467,
+                        "width": 371,
+                        "height": 561
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20805"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6414,
+            "image": "frame_6414.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1760,
+                        "y": 468,
+                        "width": 394,
+                        "height": 485
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20805"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6429,
+            "image": "frame_6429.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1612,
+                        "y": 466,
+                        "width": 394,
+                        "height": 467
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20805"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6444,
+            "image": "frame_6444.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1501,
+                        "y": 465,
+                        "width": 365,
+                        "height": 424
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20805"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6459,
+            "image": "frame_6459.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1355,
+                        "y": 456,
+                        "width": 372,
+                        "height": 407
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20805"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6474,
+            "image": "frame_6474.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1272,
+                        "y": 455,
+                        "width": 334,
+                        "height": 375
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20805"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6489,
+            "image": "frame_6489.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1131,
+                        "y": 457,
+                        "width": 356,
+                        "height": 351
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20805"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6504,
+            "image": "frame_6504.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1042,
+                        "y": 374,
+                        "width": 337,
+                        "height": 408
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20805"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6519,
+            "image": "frame_6519.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1024,
+                        "y": 443,
+                        "width": 234,
+                        "height": 319
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20805"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6579,
+            "image": "frame_6579.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 540,
+                        "y": 336,
+                        "width": 103,
+                        "height": 334
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6594,
+            "image": "frame_6594.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 477,
+                        "y": 325,
+                        "width": 156,
+                        "height": 345
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6609,
+            "image": "frame_6609.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 387,
+                        "y": 322,
+                        "width": 241,
+                        "height": 339
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20805"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6624,
+            "image": "frame_6624.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 341,
+                        "y": 314,
+                        "width": 273,
+                        "height": 337
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20805"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6639,
+            "image": "frame_6639.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 262,
+                        "y": 306,
+                        "width": 283,
+                        "height": 332
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20805"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6654,
+            "image": "frame_6654.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 235,
+                        "y": 298,
+                        "width": 249,
+                        "height": 325
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20805"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6669,
+            "image": "frame_6669.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 169,
+                        "y": 292,
+                        "width": 258,
+                        "height": 318
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20805"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6684,
+            "image": "frame_6684.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 128,
+                        "y": 286,
+                        "width": 244,
+                        "height": 310
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20805"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 6699,
+            "image": "frame_6699.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 60,
+                        "y": 288,
+                        "width": 261,
+                        "height": 298
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20805"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

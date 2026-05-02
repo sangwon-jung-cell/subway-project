@@ -1,0 +1,1959 @@
+{
+    "id": 3305097,
+    "file": "video_3305097_3501437.mp4",
+    "metadata": {
+        "width": 1920,
+        "height": 1080,
+        "duration": 300.6,
+        "fps": 30,
+        "frames": 9018,
+        "created": "Tue Nov 17 12:10:36 2020"
+    },
+    "frames": [
+        {
+            "number": 4074,
+            "image": "frame_4074.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1366,
+                        "y": 398,
+                        "width": 203,
+                        "height": 462
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 484,
+                        "y": 535,
+                        "width": 420,
+                        "height": 490
+                    },
+                    "category": {
+                        "code": "stroller",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22880"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4088,
+            "image": "frame_4088.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1384,
+                        "y": 393,
+                        "width": 203,
+                        "height": 462
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 443,
+                        "y": 509,
+                        "width": 305,
+                        "height": 490
+                    },
+                    "category": {
+                        "code": "stroller",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22880"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4103,
+            "image": "frame_4103.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1384,
+                        "y": 393,
+                        "width": 191,
+                        "height": 451
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 401,
+                        "y": 485,
+                        "width": 277,
+                        "height": 448
+                    },
+                    "category": {
+                        "code": "stroller",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22880"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4118,
+            "image": "frame_4118.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1384,
+                        "y": 393,
+                        "width": 191,
+                        "height": 451
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 384,
+                        "y": 488,
+                        "width": 230,
+                        "height": 411
+                    },
+                    "category": {
+                        "code": "stroller",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22880"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4133,
+            "image": "frame_4133.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1391,
+                        "y": 392,
+                        "width": 191,
+                        "height": 451
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 369,
+                        "y": 463,
+                        "width": 230,
+                        "height": 404
+                    },
+                    "category": {
+                        "code": "stroller",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22880"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4148,
+            "image": "frame_4148.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1391,
+                        "y": 392,
+                        "width": 191,
+                        "height": 451
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 355,
+                        "y": 454,
+                        "width": 230,
+                        "height": 379
+                    },
+                    "category": {
+                        "code": "stroller",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22880"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4163,
+            "image": "frame_4163.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1391,
+                        "y": 392,
+                        "width": 191,
+                        "height": 451
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 365,
+                        "y": 414,
+                        "width": 214,
+                        "height": 392
+                    },
+                    "category": {
+                        "code": "stroller",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22880"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4178,
+            "image": "frame_4178.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1391,
+                        "y": 392,
+                        "width": 191,
+                        "height": 451
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 382,
+                        "y": 396,
+                        "width": 199,
+                        "height": 371
+                    },
+                    "category": {
+                        "code": "stroller",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22880"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4193,
+            "image": "frame_4193.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1391,
+                        "y": 392,
+                        "width": 191,
+                        "height": 451
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 379,
+                        "y": 389,
+                        "width": 199,
+                        "height": 371
+                    },
+                    "category": {
+                        "code": "stroller",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22880"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4208,
+            "image": "frame_4208.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1391,
+                        "y": 392,
+                        "width": 191,
+                        "height": 451
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 378,
+                        "y": 374,
+                        "width": 199,
+                        "height": 371
+                    },
+                    "category": {
+                        "code": "stroller",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22880"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4223,
+            "image": "frame_4223.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1391,
+                        "y": 392,
+                        "width": 191,
+                        "height": 451
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 390,
+                        "y": 374,
+                        "width": 199,
+                        "height": 371
+                    },
+                    "category": {
+                        "code": "stroller",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22880"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4238,
+            "image": "frame_4238.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1391,
+                        "y": 392,
+                        "width": 191,
+                        "height": 451
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 390,
+                        "y": 374,
+                        "width": 199,
+                        "height": 371
+                    },
+                    "category": {
+                        "code": "stroller",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22880"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4253,
+            "image": "frame_4253.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1386,
+                        "y": 392,
+                        "width": 196,
+                        "height": 451
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 393,
+                        "y": 364,
+                        "width": 199,
+                        "height": 371
+                    },
+                    "category": {
+                        "code": "stroller",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22880"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4268,
+            "image": "frame_4268.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1386,
+                        "y": 392,
+                        "width": 196,
+                        "height": 451
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 399,
+                        "y": 360,
+                        "width": 199,
+                        "height": 341
+                    },
+                    "category": {
+                        "code": "stroller",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22880"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4283,
+            "image": "frame_4283.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1361,
+                        "y": 393,
+                        "width": 196,
+                        "height": 451
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 398,
+                        "y": 350,
+                        "width": 199,
+                        "height": 341
+                    },
+                    "category": {
+                        "code": "stroller",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22880"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4298,
+            "image": "frame_4298.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1390,
+                        "y": 374,
+                        "width": 196,
+                        "height": 451
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 398,
+                        "y": 336,
+                        "width": 199,
+                        "height": 324
+                    },
+                    "category": {
+                        "code": "stroller",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22880"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4313,
+            "image": "frame_4313.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1432,
+                        "y": 370,
+                        "width": 171,
+                        "height": 431
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 421,
+                        "y": 331,
+                        "width": 199,
+                        "height": 324
+                    },
+                    "category": {
+                        "code": "stroller",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22880"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4328,
+            "image": "frame_4328.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1430,
+                        "y": 359,
+                        "width": 171,
+                        "height": 431
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 436,
+                        "y": 334,
+                        "width": 187,
+                        "height": 307
+                    },
+                    "category": {
+                        "code": "stroller",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22880"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4343,
+            "image": "frame_4343.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1459,
+                        "y": 363,
+                        "width": 174,
+                        "height": 405
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 446,
+                        "y": 325,
+                        "width": 177,
+                        "height": 307
+                    },
+                    "category": {
+                        "code": "stroller",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22880"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4358,
+            "image": "frame_4358.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1461,
+                        "y": 363,
+                        "width": 183,
+                        "height": 406
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 471,
+                        "y": 318,
+                        "width": 177,
+                        "height": 307
+                    },
+                    "category": {
+                        "code": "stroller",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22880"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4373,
+            "image": "frame_4373.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1451,
+                        "y": 360,
+                        "width": 183,
+                        "height": 406
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 517,
+                        "y": 306,
+                        "width": 158,
+                        "height": 294
+                    },
+                    "category": {
+                        "code": "stroller",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22880"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4387,
+            "image": "frame_4387.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1451,
+                        "y": 360,
+                        "width": 183,
+                        "height": 406
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 549,
+                        "y": 295,
+                        "width": 142,
+                        "height": 173
+                    },
+                    "category": {
+                        "code": "stroller",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22880"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4402,
+            "image": "frame_4402.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1451,
+                        "y": 360,
+                        "width": 183,
+                        "height": 406
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 569,
+                        "y": 283,
+                        "width": 142,
+                        "height": 173
+                    },
+                    "category": {
+                        "code": "stroller",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22880"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4417,
+            "image": "frame_4417.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1451,
+                        "y": 360,
+                        "width": 183,
+                        "height": 406
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 601,
+                        "y": 277,
+                        "width": 142,
+                        "height": 173
+                    },
+                    "category": {
+                        "code": "stroller",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22880"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4432,
+            "image": "frame_4432.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1451,
+                        "y": 360,
+                        "width": 183,
+                        "height": 406
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 631,
+                        "y": 266,
+                        "width": 142,
+                        "height": 173
+                    },
+                    "category": {
+                        "code": "stroller",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22880"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4447,
+            "image": "frame_4447.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1451,
+                        "y": 360,
+                        "width": 183,
+                        "height": 406
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 664,
+                        "y": 248,
+                        "width": 142,
+                        "height": 164
+                    },
+                    "category": {
+                        "code": "stroller",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22880"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4462,
+            "image": "frame_4462.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1451,
+                        "y": 360,
+                        "width": 183,
+                        "height": 406
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 694,
+                        "y": 244,
+                        "width": 142,
+                        "height": 184
+                    },
+                    "category": {
+                        "code": "stroller",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22880"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4477,
+            "image": "frame_4477.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1451,
+                        "y": 360,
+                        "width": 183,
+                        "height": 406
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 723,
+                        "y": 225,
+                        "width": 142,
+                        "height": 184
+                    },
+                    "category": {
+                        "code": "stroller",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22880"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4492,
+            "image": "frame_4492.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1451,
+                        "y": 360,
+                        "width": 183,
+                        "height": 406
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 745,
+                        "y": 231,
+                        "width": 142,
+                        "height": 184
+                    },
+                    "category": {
+                        "code": "stroller",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22880"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4507,
+            "image": "frame_4507.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1451,
+                        "y": 360,
+                        "width": 183,
+                        "height": 406
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 770,
+                        "y": 224,
+                        "width": 142,
+                        "height": 184
+                    },
+                    "category": {
+                        "code": "stroller",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22880"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4522,
+            "image": "frame_4522.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1451,
+                        "y": 360,
+                        "width": 183,
+                        "height": 406
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 798,
+                        "y": 216,
+                        "width": 153,
+                        "height": 184
+                    },
+                    "category": {
+                        "code": "stroller",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22880"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4537,
+            "image": "frame_4537.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1451,
+                        "y": 360,
+                        "width": 183,
+                        "height": 406
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 849,
+                        "y": 206,
+                        "width": 133,
+                        "height": 184
+                    },
+                    "category": {
+                        "code": "stroller",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22880"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4552,
+            "image": "frame_4552.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1451,
+                        "y": 360,
+                        "width": 183,
+                        "height": 406
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 875,
+                        "y": 206,
+                        "width": 133,
+                        "height": 174
+                    },
+                    "category": {
+                        "code": "stroller",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22880"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4567,
+            "image": "frame_4567.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1456,
+                        "y": 361,
+                        "width": 204,
+                        "height": 406
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 911,
+                        "y": 207,
+                        "width": 133,
+                        "height": 162
+                    },
+                    "category": {
+                        "code": "stroller",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22880"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4582,
+            "image": "frame_4582.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1473,
+                        "y": 361,
+                        "width": 204,
+                        "height": 406
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 934,
+                        "y": 207,
+                        "width": 133,
+                        "height": 149
+                    },
+                    "category": {
+                        "code": "stroller",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22880"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4597,
+            "image": "frame_4597.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1447,
+                        "y": 361,
+                        "width": 204,
+                        "height": 406
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 965,
+                        "y": 206,
+                        "width": 121,
+                        "height": 149
+                    },
+                    "category": {
+                        "code": "stroller",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22880"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4612,
+            "image": "frame_4612.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1451,
+                        "y": 348,
+                        "width": 148,
+                        "height": 406
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 995,
+                        "y": 204,
+                        "width": 104,
+                        "height": 138
+                    },
+                    "category": {
+                        "code": "stroller",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22880"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4627,
+            "image": "frame_4627.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1451,
+                        "y": 348,
+                        "width": 158,
+                        "height": 406
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1010,
+                        "y": 201,
+                        "width": 104,
+                        "height": 131
+                    },
+                    "category": {
+                        "code": "stroller",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22880"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4642,
+            "image": "frame_4642.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1422,
+                        "y": 349,
+                        "width": 158,
+                        "height": 406
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1033,
+                        "y": 201,
+                        "width": 92,
+                        "height": 125
+                    },
+                    "category": {
+                        "code": "stroller",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22880"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4657,
+            "image": "frame_4657.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1422,
+                        "y": 349,
+                        "width": 158,
+                        "height": 406
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1051,
+                        "y": 201,
+                        "width": 92,
+                        "height": 115
+                    },
+                    "category": {
+                        "code": "stroller",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22880"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4672,
+            "image": "frame_4672.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1422,
+                        "y": 349,
+                        "width": 180,
+                        "height": 406
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1073,
+                        "y": 207,
+                        "width": 92,
+                        "height": 110
+                    },
+                    "category": {
+                        "code": "stroller",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22880"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4686,
+            "image": "frame_4686.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1422,
+                        "y": 349,
+                        "width": 180,
+                        "height": 406
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1094,
+                        "y": 200,
+                        "width": 92,
+                        "height": 101
+                    },
+                    "category": {
+                        "code": "stroller",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22880"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4701,
+            "image": "frame_4701.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1422,
+                        "y": 349,
+                        "width": 197,
+                        "height": 406
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1104,
+                        "y": 194,
+                        "width": 106,
+                        "height": 101
+                    },
+                    "category": {
+                        "code": "stroller",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22880"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4716,
+            "image": "frame_4716.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1386,
+                        "y": 349,
+                        "width": 197,
+                        "height": 406
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1104,
+                        "y": 183,
+                        "width": 117,
+                        "height": 112
+                    },
+                    "category": {
+                        "code": "stroller",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22880"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4731,
+            "image": "frame_4731.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1321,
+                        "y": 329,
+                        "width": 157,
+                        "height": 406
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1110,
+                        "y": 177,
+                        "width": 129,
+                        "height": 112
+                    },
+                    "category": {
+                        "code": "stroller",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22880"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4746,
+            "image": "frame_4746.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1215,
+                        "y": 324,
+                        "width": 182,
+                        "height": 367
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1118,
+                        "y": 176,
+                        "width": 129,
+                        "height": 112
+                    },
+                    "category": {
+                        "code": "stroller",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22880"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4761,
+            "image": "frame_4761.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1190,
+                        "y": 311,
+                        "width": 145,
+                        "height": 367
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1139,
+                        "y": 162,
+                        "width": 129,
+                        "height": 126
+                    },
+                    "category": {
+                        "code": "stroller",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22880"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4776,
+            "image": "frame_4776.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1190,
+                        "y": 294,
+                        "width": 124,
+                        "height": 340
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1152,
+                        "y": 163,
+                        "width": 129,
+                        "height": 126
+                    },
+                    "category": {
+                        "code": "stroller",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22880"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4791,
+            "image": "frame_4791.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1187,
+                        "y": 279,
+                        "width": 124,
+                        "height": 299
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1183,
+                        "y": 158,
+                        "width": 99,
+                        "height": 126
+                    },
+                    "category": {
+                        "code": "stroller",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22880"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4806,
+            "image": "frame_4806.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1198,
+                        "y": 262,
+                        "width": 124,
+                        "height": 299
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1208,
+                        "y": 156,
+                        "width": 99,
+                        "height": 126
+                    },
+                    "category": {
+                        "code": "stroller",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22880"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 154,
+                        "y": 319,
+                        "width": 93,
+                        "height": 316
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4821,
+            "image": "frame_4821.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1195,
+                        "y": 226,
+                        "width": 124,
+                        "height": 299
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1234,
+                        "y": 156,
+                        "width": 99,
+                        "height": 126
+                    },
+                    "category": {
+                        "code": "stroller",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22880"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 154,
+                        "y": 319,
+                        "width": 106,
+                        "height": 316
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4836,
+            "image": "frame_4836.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1195,
+                        "y": 234,
+                        "width": 112,
+                        "height": 263
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1257,
+                        "y": 153,
+                        "width": 99,
+                        "height": 126
+                    },
+                    "category": {
+                        "code": "stroller",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22880"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 154,
+                        "y": 319,
+                        "width": 106,
+                        "height": 316
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4851,
+            "image": "frame_4851.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1195,
+                        "y": 225,
+                        "width": 95,
+                        "height": 247
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1285,
+                        "y": 147,
+                        "width": 81,
+                        "height": 126
+                    },
+                    "category": {
+                        "code": "stroller",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22880"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 154,
+                        "y": 319,
+                        "width": 121,
+                        "height": 320
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4866,
+            "image": "frame_4866.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1185,
+                        "y": 213,
+                        "width": 95,
+                        "height": 229
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1308,
+                        "y": 144,
+                        "width": 51,
+                        "height": 121
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 154,
+                        "y": 319,
+                        "width": 76,
+                        "height": 352
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        }
+    ]
+}

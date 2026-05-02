@@ -1,0 +1,2908 @@
+{
+    "id": 2248925,
+    "file": "video_2248925_2051201.mp4",
+    "metadata": {
+        "width": 3840,
+        "height": 2160,
+        "duration": 316.13,
+        "fps": 30,
+        "frames": 9484,
+        "created": "Tue Oct 20 14:11:58 2020"
+    },
+    "frames": [
+        {
+            "number": 416,
+            "image": "frame_416.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2167,
+                        "y": 547,
+                        "width": 162,
+                        "height": 411
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3291,
+                        "y": 525,
+                        "width": 161,
+                        "height": 291
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3494,
+                        "y": 505,
+                        "width": 197,
+                        "height": 302
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20799"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3404,
+                        "y": 483,
+                        "width": 49,
+                        "height": 238
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3475,
+                        "y": 463,
+                        "width": 88,
+                        "height": 107
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3022,
+                        "y": 481,
+                        "width": 68,
+                        "height": 101
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 430,
+            "image": "frame_430.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2166,
+                        "y": 548,
+                        "width": 168,
+                        "height": 407
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3282,
+                        "y": 525,
+                        "width": 124,
+                        "height": 274
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3455,
+                        "y": 504,
+                        "width": 201,
+                        "height": 294
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20799"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3021,
+                        "y": 486,
+                        "width": 69,
+                        "height": 99
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3411,
+                        "y": 483,
+                        "width": 119,
+                        "height": 239
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 445,
+            "image": "frame_445.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2166,
+                        "y": 546,
+                        "width": 166,
+                        "height": 409
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3241,
+                        "y": 521,
+                        "width": 125,
+                        "height": 271
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3384,
+                        "y": 503,
+                        "width": 227,
+                        "height": 284
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20799"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3020,
+                        "y": 481,
+                        "width": 67,
+                        "height": 104
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3524,
+                        "y": 484,
+                        "width": 106,
+                        "height": 243
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3492,
+                        "y": 462,
+                        "width": 68,
+                        "height": 122
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 460,
+            "image": "frame_460.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2165,
+                        "y": 545,
+                        "width": 167,
+                        "height": 409
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3196,
+                        "y": 516,
+                        "width": 118,
+                        "height": 266
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3349,
+                        "y": 496,
+                        "width": 214,
+                        "height": 277
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20799"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3589,
+                        "y": 483,
+                        "width": 114,
+                        "height": 245
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3022,
+                        "y": 482,
+                        "width": 66,
+                        "height": 101
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3476,
+                        "y": 463,
+                        "width": 111,
+                        "height": 139
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 475,
+            "image": "frame_475.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2164,
+                        "y": 547,
+                        "width": 168,
+                        "height": 407
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3148,
+                        "y": 513,
+                        "width": 117,
+                        "height": 261
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3295,
+                        "y": 491,
+                        "width": 219,
+                        "height": 272
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20799"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3024,
+                        "y": 481,
+                        "width": 64,
+                        "height": 104
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3475,
+                        "y": 463,
+                        "width": 112,
+                        "height": 137
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 490,
+            "image": "frame_490.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2165,
+                        "y": 543,
+                        "width": 167,
+                        "height": 411
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3107,
+                        "y": 512,
+                        "width": 114,
+                        "height": 255
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3286,
+                        "y": 488,
+                        "width": 181,
+                        "height": 266
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20799"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3017,
+                        "y": 484,
+                        "width": 66,
+                        "height": 101
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3477,
+                        "y": 462,
+                        "width": 111,
+                        "height": 138
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 505,
+            "image": "frame_505.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2166,
+                        "y": 544,
+                        "width": 166,
+                        "height": 412
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3020,
+                        "y": 486,
+                        "width": 71,
+                        "height": 101
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3051,
+                        "y": 511,
+                        "width": 117,
+                        "height": 248
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3227,
+                        "y": 487,
+                        "width": 199,
+                        "height": 255
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20799"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3473,
+                        "y": 465,
+                        "width": 113,
+                        "height": 136
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 520,
+            "image": "frame_520.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2166,
+                        "y": 547,
+                        "width": 163,
+                        "height": 409
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3013,
+                        "y": 506,
+                        "width": 118,
+                        "height": 249
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3165,
+                        "y": 485,
+                        "width": 202,
+                        "height": 248
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20799"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3473,
+                        "y": 467,
+                        "width": 112,
+                        "height": 134
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3018,
+                        "y": 481,
+                        "width": 71,
+                        "height": 103
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 535,
+            "image": "frame_535.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2167,
+                        "y": 545,
+                        "width": 167,
+                        "height": 411
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3008,
+                        "y": 507,
+                        "width": 72,
+                        "height": 237
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3112,
+                        "y": 488,
+                        "width": 205,
+                        "height": 237
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20799"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3474,
+                        "y": 462,
+                        "width": 106,
+                        "height": 137
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3030,
+                        "y": 483,
+                        "width": 60,
+                        "height": 72
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 550,
+            "image": "frame_550.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2167,
+                        "y": 547,
+                        "width": 160,
+                        "height": 409
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3021,
+                        "y": 486,
+                        "width": 67,
+                        "height": 99
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3088,
+                        "y": 485,
+                        "width": 169,
+                        "height": 232
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20799"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3474,
+                        "y": 465,
+                        "width": 108,
+                        "height": 134
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 565,
+            "image": "frame_565.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2164,
+                        "y": 547,
+                        "width": 141,
+                        "height": 409
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3044,
+                        "y": 484,
+                        "width": 170,
+                        "height": 226
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20799"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3475,
+                        "y": 465,
+                        "width": 108,
+                        "height": 135
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3018,
+                        "y": 485,
+                        "width": 74,
+                        "height": 102
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 580,
+            "image": "frame_580.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2164,
+                        "y": 545,
+                        "width": 141,
+                        "height": 412
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2823,
+                        "y": 500,
+                        "width": 82,
+                        "height": 220
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3004,
+                        "y": 483,
+                        "width": 165,
+                        "height": 224
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20799"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3473,
+                        "y": 467,
+                        "width": 113,
+                        "height": 131
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 595,
+            "image": "frame_595.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2167,
+                        "y": 546,
+                        "width": 136,
+                        "height": 410
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2783,
+                        "y": 497,
+                        "width": 111,
+                        "height": 225
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3023,
+                        "y": 485,
+                        "width": 64,
+                        "height": 101
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3475,
+                        "y": 464,
+                        "width": 108,
+                        "height": 137
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 610,
+            "image": "frame_610.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2165,
+                        "y": 545,
+                        "width": 137,
+                        "height": 411
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2736,
+                        "y": 493,
+                        "width": 100,
+                        "height": 224
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3021,
+                        "y": 484,
+                        "width": 67,
+                        "height": 104
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3474,
+                        "y": 465,
+                        "width": 110,
+                        "height": 136
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 625,
+            "image": "frame_625.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2170,
+                        "y": 546,
+                        "width": 132,
+                        "height": 408
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2688,
+                        "y": 491,
+                        "width": 108,
+                        "height": 215
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2821,
+                        "y": 485,
+                        "width": 82,
+                        "height": 203
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3022,
+                        "y": 485,
+                        "width": 66,
+                        "height": 100
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3475,
+                        "y": 467,
+                        "width": 108,
+                        "height": 135
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 640,
+            "image": "frame_640.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2159,
+                        "y": 550,
+                        "width": 133,
+                        "height": 405
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2679,
+                        "y": 487,
+                        "width": 67,
+                        "height": 210
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2719,
+                        "y": 483,
+                        "width": 105,
+                        "height": 210
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2787,
+                        "y": 483,
+                        "width": 117,
+                        "height": 198
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20799"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3022,
+                        "y": 485,
+                        "width": 64,
+                        "height": 96
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3474,
+                        "y": 465,
+                        "width": 109,
+                        "height": 134
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 655,
+            "image": "frame_655.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2163,
+                        "y": 545,
+                        "width": 136,
+                        "height": 411
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2673,
+                        "y": 518,
+                        "width": 48,
+                        "height": 164
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2716,
+                        "y": 482,
+                        "width": 161,
+                        "height": 198
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20799"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2769,
+                        "y": 483,
+                        "width": 131,
+                        "height": 216
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3022,
+                        "y": 485,
+                        "width": 66,
+                        "height": 100
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3473,
+                        "y": 464,
+                        "width": 110,
+                        "height": 136
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 670,
+            "image": "frame_670.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2170,
+                        "y": 544,
+                        "width": 132,
+                        "height": 411
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 2690,
+                        "y": 481,
+                        "width": 150,
+                        "height": 189
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20799"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3020,
+                        "y": 482,
+                        "width": 67,
+                        "height": 102
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3473,
+                        "y": 465,
+                        "width": 108,
+                        "height": 135
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5552,
+            "image": "frame_5552.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 3376,
+                        "y": 604,
+                        "width": 217,
+                        "height": 297
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20800"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3017,
+                        "y": 483,
+                        "width": 76,
+                        "height": 102
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3471,
+                        "y": 464,
+                        "width": 113,
+                        "height": 136
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3528,
+                        "y": 397,
+                        "width": 60,
+                        "height": 150
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5566,
+            "image": "frame_5566.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 3017,
+                        "y": 485,
+                        "width": 75,
+                        "height": 98
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3356,
+                        "y": 606,
+                        "width": 191,
+                        "height": 291
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20800"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3474,
+                        "y": 467,
+                        "width": 110,
+                        "height": 131
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3530,
+                        "y": 399,
+                        "width": 57,
+                        "height": 149
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5581,
+            "image": "frame_5581.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 3018,
+                        "y": 483,
+                        "width": 74,
+                        "height": 101
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3328,
+                        "y": 609,
+                        "width": 187,
+                        "height": 315
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20800"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3471,
+                        "y": 465,
+                        "width": 114,
+                        "height": 135
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3525,
+                        "y": 398,
+                        "width": 62,
+                        "height": 149
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5596,
+            "image": "frame_5596.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 3019,
+                        "y": 1338,
+                        "width": 8,
+                        "height": 5
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3292,
+                        "y": 614,
+                        "width": 189,
+                        "height": 327
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20800"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3019,
+                        "y": 483,
+                        "width": 73,
+                        "height": 103
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3472,
+                        "y": 464,
+                        "width": 111,
+                        "height": 135
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3522,
+                        "y": 399,
+                        "width": 68,
+                        "height": 147
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5611,
+            "image": "frame_5611.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 3270,
+                        "y": 623,
+                        "width": 165,
+                        "height": 319
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20800"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3017,
+                        "y": 484,
+                        "width": 75,
+                        "height": 102
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3471,
+                        "y": 465,
+                        "width": 111,
+                        "height": 134
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3530,
+                        "y": 399,
+                        "width": 60,
+                        "height": 147
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5626,
+            "image": "frame_5626.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 3247,
+                        "y": 624,
+                        "width": 159,
+                        "height": 336
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20800"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3018,
+                        "y": 483,
+                        "width": 73,
+                        "height": 102
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3471,
+                        "y": 465,
+                        "width": 115,
+                        "height": 135
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3526,
+                        "y": 399,
+                        "width": 61,
+                        "height": 149
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5641,
+            "image": "frame_5641.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 3240,
+                        "y": 634,
+                        "width": 166,
+                        "height": 332
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20800"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3018,
+                        "y": 483,
+                        "width": 73,
+                        "height": 102
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3471,
+                        "y": 465,
+                        "width": 115,
+                        "height": 135
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3526,
+                        "y": 399,
+                        "width": 64,
+                        "height": 149
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5656,
+            "image": "frame_5656.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 3213,
+                        "y": 641,
+                        "width": 179,
+                        "height": 340
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20800"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3018,
+                        "y": 483,
+                        "width": 73,
+                        "height": 102
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3471,
+                        "y": 465,
+                        "width": 115,
+                        "height": 135
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3526,
+                        "y": 399,
+                        "width": 64,
+                        "height": 149
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5671,
+            "image": "frame_5671.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 3196,
+                        "y": 647,
+                        "width": 178,
+                        "height": 331
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20800"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3018,
+                        "y": 484,
+                        "width": 73,
+                        "height": 101
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3471,
+                        "y": 465,
+                        "width": 115,
+                        "height": 135
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3526,
+                        "y": 399,
+                        "width": 64,
+                        "height": 149
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5686,
+            "image": "frame_5686.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 3200,
+                        "y": 649,
+                        "width": 186,
+                        "height": 347
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20800"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3018,
+                        "y": 484,
+                        "width": 73,
+                        "height": 101
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3471,
+                        "y": 465,
+                        "width": 115,
+                        "height": 135
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3520,
+                        "y": 399,
+                        "width": 70,
+                        "height": 149
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5701,
+            "image": "frame_5701.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 3240,
+                        "y": 649,
+                        "width": 166,
+                        "height": 349
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20800"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3018,
+                        "y": 484,
+                        "width": 73,
+                        "height": 101
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3471,
+                        "y": 465,
+                        "width": 115,
+                        "height": 135
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3520,
+                        "y": 399,
+                        "width": 70,
+                        "height": 149
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5716,
+            "image": "frame_5716.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 3244,
+                        "y": 658,
+                        "width": 149,
+                        "height": 347
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20800"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3018,
+                        "y": 484,
+                        "width": 73,
+                        "height": 101
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3471,
+                        "y": 465,
+                        "width": 115,
+                        "height": 135
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3520,
+                        "y": 399,
+                        "width": 70,
+                        "height": 149
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3581,
+                        "y": 452,
+                        "width": 85,
+                        "height": 226
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5731,
+            "image": "frame_5731.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 3248,
+                        "y": 658,
+                        "width": 145,
+                        "height": 367
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20800"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3018,
+                        "y": 484,
+                        "width": 73,
+                        "height": 101
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3471,
+                        "y": 465,
+                        "width": 70,
+                        "height": 135
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3520,
+                        "y": 399,
+                        "width": 70,
+                        "height": 96
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3513,
+                        "y": 454,
+                        "width": 102,
+                        "height": 221
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5746,
+            "image": "frame_5746.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 3230,
+                        "y": 668,
+                        "width": 159,
+                        "height": 371
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20800"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3018,
+                        "y": 484,
+                        "width": 73,
+                        "height": 101
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3520,
+                        "y": 399,
+                        "width": 70,
+                        "height": 149
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3473,
+                        "y": 454,
+                        "width": 100,
+                        "height": 228
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5761,
+            "image": "frame_5761.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 3220,
+                        "y": 682,
+                        "width": 144,
+                        "height": 369
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20800"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3018,
+                        "y": 485,
+                        "width": 75,
+                        "height": 101
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3440,
+                        "y": 460,
+                        "width": 99,
+                        "height": 228
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3519,
+                        "y": 399,
+                        "width": 71,
+                        "height": 150
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3515,
+                        "y": 466,
+                        "width": 69,
+                        "height": 132
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5776,
+            "image": "frame_5776.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 3220,
+                        "y": 692,
+                        "width": 157,
+                        "height": 372
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20800"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3016,
+                        "y": 484,
+                        "width": 75,
+                        "height": 102
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3417,
+                        "y": 462,
+                        "width": 107,
+                        "height": 233
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3530,
+                        "y": 397,
+                        "width": 56,
+                        "height": 150
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3497,
+                        "y": 464,
+                        "width": 88,
+                        "height": 137
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5791,
+            "image": "frame_5791.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 3188,
+                        "y": 698,
+                        "width": 171,
+                        "height": 382
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20800"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3019,
+                        "y": 483,
+                        "width": 71,
+                        "height": 101
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3416,
+                        "y": 465,
+                        "width": 102,
+                        "height": 235
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3527,
+                        "y": 397,
+                        "width": 57,
+                        "height": 146
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3491,
+                        "y": 464,
+                        "width": 94,
+                        "height": 136
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5806,
+            "image": "frame_5806.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 3185,
+                        "y": 704,
+                        "width": 179,
+                        "height": 403
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20800"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3018,
+                        "y": 482,
+                        "width": 74,
+                        "height": 99
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3408,
+                        "y": 465,
+                        "width": 100,
+                        "height": 242
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3530,
+                        "y": 398,
+                        "width": 54,
+                        "height": 149
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3491,
+                        "y": 463,
+                        "width": 93,
+                        "height": 138
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5821,
+            "image": "frame_5821.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 3184,
+                        "y": 715,
+                        "width": 184,
+                        "height": 413
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20800"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3018,
+                        "y": 483,
+                        "width": 74,
+                        "height": 98
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3416,
+                        "y": 469,
+                        "width": 102,
+                        "height": 248
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3534,
+                        "y": 398,
+                        "width": 52,
+                        "height": 149
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3491,
+                        "y": 463,
+                        "width": 93,
+                        "height": 138
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5836,
+            "image": "frame_5836.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 3190,
+                        "y": 730,
+                        "width": 191,
+                        "height": 424
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20800"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3017,
+                        "y": 484,
+                        "width": 74,
+                        "height": 99
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3532,
+                        "y": 400,
+                        "width": 57,
+                        "height": 144
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3486,
+                        "y": 464,
+                        "width": 98,
+                        "height": 137
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3402,
+                        "y": 476,
+                        "width": 111,
+                        "height": 252
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5851,
+            "image": "frame_5851.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 3207,
+                        "y": 741,
+                        "width": 230,
+                        "height": 436
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20800"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3018,
+                        "y": 484,
+                        "width": 74,
+                        "height": 100
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3395,
+                        "y": 478,
+                        "width": 107,
+                        "height": 258
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3485,
+                        "y": 464,
+                        "width": 100,
+                        "height": 138
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3531,
+                        "y": 397,
+                        "width": 57,
+                        "height": 146
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5866,
+            "image": "frame_5866.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 3225,
+                        "y": 757,
+                        "width": 243,
+                        "height": 444
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20800"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3017,
+                        "y": 484,
+                        "width": 73,
+                        "height": 100
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3375,
+                        "y": 484,
+                        "width": 131,
+                        "height": 263
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3477,
+                        "y": 462,
+                        "width": 109,
+                        "height": 138
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3532,
+                        "y": 397,
+                        "width": 56,
+                        "height": 149
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5881,
+            "image": "frame_5881.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 3246,
+                        "y": 776,
+                        "width": 308,
+                        "height": 468
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20800"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3018,
+                        "y": 486,
+                        "width": 73,
+                        "height": 99
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3345,
+                        "y": 490,
+                        "width": 129,
+                        "height": 267
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3475,
+                        "y": 464,
+                        "width": 109,
+                        "height": 137
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3534,
+                        "y": 396,
+                        "width": 54,
+                        "height": 151
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5896,
+            "image": "frame_5896.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 3284,
+                        "y": 794,
+                        "width": 321,
+                        "height": 492
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20800"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3018,
+                        "y": 485,
+                        "width": 71,
+                        "height": 98
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3327,
+                        "y": 491,
+                        "width": 145,
+                        "height": 274
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3532,
+                        "y": 398,
+                        "width": 55,
+                        "height": 147
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3477,
+                        "y": 463,
+                        "width": 103,
+                        "height": 137
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 5911,
+            "image": "frame_5911.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 3314,
+                        "y": 812,
+                        "width": 380,
+                        "height": 507
+                    },
+                    "category": {
+                        "code": "merchant",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "20800"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3018,
+                        "y": 484,
+                        "width": 73,
+                        "height": 99
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3324,
+                        "y": 494,
+                        "width": 112,
+                        "height": 282
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3475,
+                        "y": 464,
+                        "width": 105,
+                        "height": 137
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 3528,
+                        "y": 396,
+                        "width": 59,
+                        "height": 152
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        }
+    ]
+}

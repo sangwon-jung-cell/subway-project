@@ -1,0 +1,2009 @@
+{
+    "id": 2952019,
+    "file": "video_2952019_2909679.mp4",
+    "metadata": {
+        "width": 1920,
+        "height": 1080,
+        "duration": 301.04,
+        "fps": 24,
+        "frames": 7225,
+        "created": "Mon Nov 16 18:47:56 2020"
+    },
+    "frames": [
+        {
+            "number": 2727,
+            "image": "frame_2727.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 787,
+                        "y": 213,
+                        "width": 105,
+                        "height": 153
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22277"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1196,
+                        "y": 345,
+                        "width": 134,
+                        "height": 321
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1175,
+                        "y": 224,
+                        "width": 97,
+                        "height": 203
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1283,
+                        "y": 155,
+                        "width": 62,
+                        "height": 151
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 2739,
+            "image": "frame_2739.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 770,
+                        "y": 224,
+                        "width": 105,
+                        "height": 153
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22277"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1192,
+                        "y": 337,
+                        "width": 134,
+                        "height": 316
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1171,
+                        "y": 212,
+                        "width": 97,
+                        "height": 203
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1285,
+                        "y": 152,
+                        "width": 62,
+                        "height": 140
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 2751,
+            "image": "frame_2751.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 757,
+                        "y": 227,
+                        "width": 105,
+                        "height": 165
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22277"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1192,
+                        "y": 337,
+                        "width": 134,
+                        "height": 301
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1160,
+                        "y": 204,
+                        "width": 97,
+                        "height": 213
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1291,
+                        "y": 152,
+                        "width": 62,
+                        "height": 140
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 2763,
+            "image": "frame_2763.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 737,
+                        "y": 238,
+                        "width": 108,
+                        "height": 171
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22277"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1181,
+                        "y": 323,
+                        "width": 124,
+                        "height": 298
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1157,
+                        "y": 195,
+                        "width": 97,
+                        "height": 198
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1315,
+                        "y": 150,
+                        "width": 49,
+                        "height": 131
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1618,
+                        "y": 580,
+                        "width": 139,
+                        "height": 378
+                    },
+                    "category": {
+                        "code": "blind",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22279"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 2775,
+            "image": "frame_2775.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 718,
+                        "y": 240,
+                        "width": 108,
+                        "height": 182
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22277"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1182,
+                        "y": 315,
+                        "width": 139,
+                        "height": 290
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1157,
+                        "y": 187,
+                        "width": 97,
+                        "height": 206
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1336,
+                        "y": 145,
+                        "width": 40,
+                        "height": 131
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1497,
+                        "y": 472,
+                        "width": 190,
+                        "height": 439
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 2787,
+            "image": "frame_2787.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 695,
+                        "y": 247,
+                        "width": 118,
+                        "height": 177
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22277"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1186,
+                        "y": 303,
+                        "width": 127,
+                        "height": 284
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1170,
+                        "y": 185,
+                        "width": 83,
+                        "height": 196
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1361,
+                        "y": 430,
+                        "width": 222,
+                        "height": 406
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 2799,
+            "image": "frame_2799.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 682,
+                        "y": 263,
+                        "width": 107,
+                        "height": 144
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22277"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1199,
+                        "y": 303,
+                        "width": 127,
+                        "height": 271
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1178,
+                        "y": 178,
+                        "width": 83,
+                        "height": 185
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1272,
+                        "y": 411,
+                        "width": 199,
+                        "height": 371
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 2811,
+            "image": "frame_2811.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 654,
+                        "y": 272,
+                        "width": 101,
+                        "height": 138
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22277"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1199,
+                        "y": 289,
+                        "width": 127,
+                        "height": 271
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1179,
+                        "y": 172,
+                        "width": 83,
+                        "height": 180
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1238,
+                        "y": 376,
+                        "width": 189,
+                        "height": 364
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 2823,
+            "image": "frame_2823.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 613,
+                        "y": 277,
+                        "width": 133,
+                        "height": 131
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22277"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1199,
+                        "y": 282,
+                        "width": 97,
+                        "height": 206
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1191,
+                        "y": 165,
+                        "width": 78,
+                        "height": 180
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1206,
+                        "y": 357,
+                        "width": 167,
+                        "height": 330
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 2835,
+            "image": "frame_2835.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 597,
+                        "y": 288,
+                        "width": 133,
+                        "height": 131
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22277"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1199,
+                        "y": 282,
+                        "width": 97,
+                        "height": 206
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1206,
+                        "y": 165,
+                        "width": 70,
+                        "height": 164
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1233,
+                        "y": 343,
+                        "width": 136,
+                        "height": 315
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 2847,
+            "image": "frame_2847.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 565,
+                        "y": 292,
+                        "width": 133,
+                        "height": 237
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22277"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1213,
+                        "y": 275,
+                        "width": 110,
+                        "height": 123
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1223,
+                        "y": 165,
+                        "width": 67,
+                        "height": 154
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1206,
+                        "y": 329,
+                        "width": 136,
+                        "height": 315
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 2859,
+            "image": "frame_2859.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 568,
+                        "y": 306,
+                        "width": 116,
+                        "height": 194
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22277"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1213,
+                        "y": 264,
+                        "width": 101,
+                        "height": 170
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1235,
+                        "y": 165,
+                        "width": 55,
+                        "height": 154
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1206,
+                        "y": 329,
+                        "width": 128,
+                        "height": 315
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 2871,
+            "image": "frame_2871.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 522,
+                        "y": 307,
+                        "width": 158,
+                        "height": 244
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22277"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1219,
+                        "y": 258,
+                        "width": 101,
+                        "height": 129
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1242,
+                        "y": 158,
+                        "width": 55,
+                        "height": 138
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1204,
+                        "y": 326,
+                        "width": 124,
+                        "height": 315
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 2883,
+            "image": "frame_2883.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 522,
+                        "y": 307,
+                        "width": 162,
+                        "height": 244
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22277"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1209,
+                        "y": 253,
+                        "width": 101,
+                        "height": 129
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1253,
+                        "y": 158,
+                        "width": 55,
+                        "height": 138
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1202,
+                        "y": 315,
+                        "width": 102,
+                        "height": 294
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 2895,
+            "image": "frame_2895.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 542,
+                        "y": 307,
+                        "width": 135,
+                        "height": 244
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22277"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1209,
+                        "y": 253,
+                        "width": 101,
+                        "height": 129
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1273,
+                        "y": 151,
+                        "width": 55,
+                        "height": 138
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1202,
+                        "y": 302,
+                        "width": 102,
+                        "height": 270
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 2907,
+            "image": "frame_2907.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 542,
+                        "y": 307,
+                        "width": 135,
+                        "height": 244
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22277"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1208,
+                        "y": 243,
+                        "width": 88,
+                        "height": 201
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1302,
+                        "y": 145,
+                        "width": 55,
+                        "height": 138
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1193,
+                        "y": 275,
+                        "width": 93,
+                        "height": 255
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 2919,
+            "image": "frame_2919.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 542,
+                        "y": 307,
+                        "width": 135,
+                        "height": 223
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22277"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1220,
+                        "y": 243,
+                        "width": 80,
+                        "height": 201
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1331,
+                        "y": 148,
+                        "width": 55,
+                        "height": 138
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1177,
+                        "y": 264,
+                        "width": 93,
+                        "height": 241
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 2931,
+            "image": "frame_2931.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 551,
+                        "y": 307,
+                        "width": 126,
+                        "height": 223
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22277"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1220,
+                        "y": 235,
+                        "width": 78,
+                        "height": 190
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1331,
+                        "y": 148,
+                        "width": 55,
+                        "height": 138
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1148,
+                        "y": 249,
+                        "width": 108,
+                        "height": 216
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 2943,
+            "image": "frame_2943.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 536,
+                        "y": 318,
+                        "width": 142,
+                        "height": 180
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22277"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1211,
+                        "y": 235,
+                        "width": 78,
+                        "height": 184
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1120,
+                        "y": 234,
+                        "width": 104,
+                        "height": 195
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 2955,
+            "image": "frame_2955.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 536,
+                        "y": 318,
+                        "width": 142,
+                        "height": 239
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22277"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1197,
+                        "y": 233,
+                        "width": 90,
+                        "height": 184
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1105,
+                        "y": 228,
+                        "width": 95,
+                        "height": 195
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 2967,
+            "image": "frame_2967.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 536,
+                        "y": 305,
+                        "width": 147,
+                        "height": 252
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22277"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1200,
+                        "y": 227,
+                        "width": 90,
+                        "height": 184
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1099,
+                        "y": 222,
+                        "width": 100,
+                        "height": 195
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 2979,
+            "image": "frame_2979.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 502,
+                        "y": 305,
+                        "width": 176,
+                        "height": 252
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22277"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1200,
+                        "y": 222,
+                        "width": 77,
+                        "height": 172
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1106,
+                        "y": 214,
+                        "width": 80,
+                        "height": 188
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 2991,
+            "image": "frame_2991.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 502,
+                        "y": 305,
+                        "width": 176,
+                        "height": 252
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22277"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1200,
+                        "y": 214,
+                        "width": 86,
+                        "height": 171
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1095,
+                        "y": 207,
+                        "width": 97,
+                        "height": 180
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3003,
+            "image": "frame_3003.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 514,
+                        "y": 305,
+                        "width": 164,
+                        "height": 252
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22277"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1206,
+                        "y": 214,
+                        "width": 80,
+                        "height": 171
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1107,
+                        "y": 207,
+                        "width": 85,
+                        "height": 157
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3015,
+            "image": "frame_3015.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 538,
+                        "y": 305,
+                        "width": 140,
+                        "height": 252
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22277"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1209,
+                        "y": 216,
+                        "width": 94,
+                        "height": 151
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1118,
+                        "y": 196,
+                        "width": 85,
+                        "height": 169
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3027,
+            "image": "frame_3027.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 538,
+                        "y": 305,
+                        "width": 140,
+                        "height": 252
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22277"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1224,
+                        "y": 205,
+                        "width": 85,
+                        "height": 158
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1126,
+                        "y": 187,
+                        "width": 95,
+                        "height": 159
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3039,
+            "image": "frame_3039.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 538,
+                        "y": 305,
+                        "width": 140,
+                        "height": 252
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22277"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1232,
+                        "y": 202,
+                        "width": 85,
+                        "height": 158
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1151,
+                        "y": 184,
+                        "width": 75,
+                        "height": 155
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3051,
+            "image": "frame_3051.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 538,
+                        "y": 305,
+                        "width": 140,
+                        "height": 252
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22277"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1237,
+                        "y": 202,
+                        "width": 72,
+                        "height": 151
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1162,
+                        "y": 185,
+                        "width": 75,
+                        "height": 155
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3063,
+            "image": "frame_3063.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 553,
+                        "y": 305,
+                        "width": 125,
+                        "height": 252
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22277"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1240,
+                        "y": 194,
+                        "width": 76,
+                        "height": 151
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1187,
+                        "y": 179,
+                        "width": 68,
+                        "height": 136
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3075,
+            "image": "frame_3075.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 553,
+                        "y": 305,
+                        "width": 125,
+                        "height": 252
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22277"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1236,
+                        "y": 189,
+                        "width": 76,
+                        "height": 151
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1210,
+                        "y": 174,
+                        "width": 60,
+                        "height": 136
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3087,
+            "image": "frame_3087.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 553,
+                        "y": 305,
+                        "width": 125,
+                        "height": 252
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22277"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1238,
+                        "y": 185,
+                        "width": 76,
+                        "height": 151
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1228,
+                        "y": 168,
+                        "width": 56,
+                        "height": 136
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3099,
+            "image": "frame_3099.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 553,
+                        "y": 321,
+                        "width": 117,
+                        "height": 236
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22277"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1238,
+                        "y": 185,
+                        "width": 74,
+                        "height": 151
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1257,
+                        "y": 172,
+                        "width": 57,
+                        "height": 129
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3111,
+            "image": "frame_3111.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 526,
+                        "y": 318,
+                        "width": 135,
+                        "height": 245
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22277"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1245,
+                        "y": 185,
+                        "width": 67,
+                        "height": 147
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1289,
+                        "y": 164,
+                        "width": 43,
+                        "height": 96
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3123,
+            "image": "frame_3123.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 481,
+                        "y": 338,
+                        "width": 152,
+                        "height": 255
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22277"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1245,
+                        "y": 185,
+                        "width": 70,
+                        "height": 142
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1308,
+                        "y": 158,
+                        "width": 49,
+                        "height": 128
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3135,
+            "image": "frame_3135.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 418,
+                        "y": 349,
+                        "width": 179,
+                        "height": 284
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22277"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1259,
+                        "y": 170,
+                        "width": 70,
+                        "height": 142
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1323,
+                        "y": 160,
+                        "width": 49,
+                        "height": 120
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3147,
+            "image": "frame_3147.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 365,
+                        "y": 376,
+                        "width": 223,
+                        "height": 306
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22277"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1254,
+                        "y": 170,
+                        "width": 70,
+                        "height": 140
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3159,
+            "image": "frame_3159.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 288,
+                        "y": 405,
+                        "width": 244,
+                        "height": 340
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22277"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1266,
+                        "y": 170,
+                        "width": 70,
+                        "height": 140
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3171,
+            "image": "frame_3171.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 202,
+                        "y": 438,
+                        "width": 274,
+                        "height": 368
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "22277"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "x": 1266,
+                        "y": 170,
+                        "width": 70,
+                        "height": 140
+                    },
+                    "category": {
+                        "code": "person",
+                        "attributes": []
+                    }
+                }
+            ]
+        }
+    ]
+}

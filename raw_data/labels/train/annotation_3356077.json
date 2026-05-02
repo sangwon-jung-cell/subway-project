@@ -1,0 +1,566 @@
+{
+    "id": 3356077,
+    "file": "video_3356077_3522097.mp4",
+    "metadata": {
+        "width": 1920,
+        "height": 1080,
+        "duration": 194.6,
+        "fps": 30,
+        "frames": 5838,
+        "created": "Fri Nov 20 15:35:06 2020"
+    },
+    "frames": [
+        {
+            "number": 3581,
+            "image": "frame_3581.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 155,
+                        "y": 598,
+                        "width": 320,
+                        "height": 338
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "23547"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3595,
+            "image": "frame_3595.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 320,
+                        "y": 525,
+                        "width": 306,
+                        "height": 290
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "23547"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3610,
+            "image": "frame_3610.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 471,
+                        "y": 476,
+                        "width": 273,
+                        "height": 260
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "23547"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3625,
+            "image": "frame_3625.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 583,
+                        "y": 443,
+                        "width": 212,
+                        "height": 252
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "23547"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3640,
+            "image": "frame_3640.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 600,
+                        "y": 432,
+                        "width": 212,
+                        "height": 252
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "23547"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3655,
+            "image": "frame_3655.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 609,
+                        "y": 432,
+                        "width": 197,
+                        "height": 252
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "23547"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3670,
+            "image": "frame_3670.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 609,
+                        "y": 439,
+                        "width": 197,
+                        "height": 243
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "23547"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3685,
+            "image": "frame_3685.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 609,
+                        "y": 434,
+                        "width": 197,
+                        "height": 243
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "23547"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3700,
+            "image": "frame_3700.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 609,
+                        "y": 432,
+                        "width": 197,
+                        "height": 243
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "23547"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3715,
+            "image": "frame_3715.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 601,
+                        "y": 429,
+                        "width": 197,
+                        "height": 243
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "23547"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3730,
+            "image": "frame_3730.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 642,
+                        "y": 421,
+                        "width": 175,
+                        "height": 237
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "23547"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3745,
+            "image": "frame_3745.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 706,
+                        "y": 393,
+                        "width": 141,
+                        "height": 229
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "23547"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3760,
+            "image": "frame_3760.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 792,
+                        "y": 376,
+                        "width": 141,
+                        "height": 96
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "23547"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3775,
+            "image": "frame_3775.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 861,
+                        "y": 351,
+                        "width": 162,
+                        "height": 96
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "23547"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3790,
+            "image": "frame_3790.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 944,
+                        "y": 331,
+                        "width": 162,
+                        "height": 151
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "23547"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3805,
+            "image": "frame_3805.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1038,
+                        "y": 313,
+                        "width": 159,
+                        "height": 163
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "23547"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3820,
+            "image": "frame_3820.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1127,
+                        "y": 295,
+                        "width": 146,
+                        "height": 157
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "23547"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3835,
+            "image": "frame_3835.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1217,
+                        "y": 284,
+                        "width": 140,
+                        "height": 145
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "23547"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3850,
+            "image": "frame_3850.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1305,
+                        "y": 275,
+                        "width": 131,
+                        "height": 132
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "23547"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3865,
+            "image": "frame_3865.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1380,
+                        "y": 262,
+                        "width": 121,
+                        "height": 134
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "23547"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3880,
+            "image": "frame_3880.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1451,
+                        "y": 255,
+                        "width": 110,
+                        "height": 117
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "23547"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3895,
+            "image": "frame_3895.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1505,
+                        "y": 244,
+                        "width": 110,
+                        "height": 117
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "23547"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3910,
+            "image": "frame_3910.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1561,
+                        "y": 238,
+                        "width": 97,
+                        "height": 117
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "23547"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3925,
+            "image": "frame_3925.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1612,
+                        "y": 228,
+                        "width": 87,
+                        "height": 117
+                    },
+                    "category": {
+                        "code": "wheelchair",
+                        "attributes": [
+                            {
+                                "code": "global_id",
+                                "value": "23547"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

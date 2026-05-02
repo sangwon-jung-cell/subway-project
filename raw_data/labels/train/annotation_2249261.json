@@ -1,0 +1,2037 @@
+{
+    "id": 2249261,
+    "file": "video_2249261_2051181.mp4",
+    "metadata": {
+        "width": 3840,
+        "height": 2160,
+        "duration": 308.8,
+        "fps": 30,
+        "frames": 9264,
+        "created": "Sun Jan 17 17:49:17 2021"
+    },
+    "events": [
+        {
+            "name": "개집표기 무단진입",
+            "start_time": 135.1,
+            "duration": 7.37
+        }
+    ],
+    "frames": [
+        {
+            "number": 4049,
+            "image": "frame_4049.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1599,
+                        "y": 521,
+                        "width": 166,
+                        "height": 573
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4050,
+            "image": "frame_4050.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1610,
+                        "y": 521,
+                        "width": 166,
+                        "height": 573
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4052,
+            "image": "frame_4052.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1627,
+                        "y": 523,
+                        "width": 215,
+                        "height": 571
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4054,
+            "image": "frame_4054.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1635,
+                        "y": 527,
+                        "width": 229,
+                        "height": 561
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4056,
+            "image": "frame_4056.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1638,
+                        "y": 528,
+                        "width": 229,
+                        "height": 557
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4058,
+            "image": "frame_4058.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1655,
+                        "y": 526,
+                        "width": 211,
+                        "height": 554
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4060,
+            "image": "frame_4060.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1682,
+                        "y": 522,
+                        "width": 183,
+                        "height": 544
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4062,
+            "image": "frame_4062.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1716,
+                        "y": 517,
+                        "width": 153,
+                        "height": 543
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4064,
+            "image": "frame_4064.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1726,
+                        "y": 515,
+                        "width": 179,
+                        "height": 543
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4066,
+            "image": "frame_4066.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1735,
+                        "y": 516,
+                        "width": 203,
+                        "height": 543
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4068,
+            "image": "frame_4068.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1751,
+                        "y": 516,
+                        "width": 211,
+                        "height": 543
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4070,
+            "image": "frame_4070.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1767,
+                        "y": 519,
+                        "width": 214,
+                        "height": 539
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4072,
+            "image": "frame_4072.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1783,
+                        "y": 519,
+                        "width": 211,
+                        "height": 537
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4074,
+            "image": "frame_4074.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1795,
+                        "y": 518,
+                        "width": 200,
+                        "height": 534
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4076,
+            "image": "frame_4076.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1812,
+                        "y": 512,
+                        "width": 186,
+                        "height": 314
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4078,
+            "image": "frame_4078.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1827,
+                        "y": 508,
+                        "width": 165,
+                        "height": 311
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4080,
+            "image": "frame_4080.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1845,
+                        "y": 504,
+                        "width": 146,
+                        "height": 311
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4082,
+            "image": "frame_4082.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1860,
+                        "y": 505,
+                        "width": 136,
+                        "height": 298
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4084,
+            "image": "frame_4084.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1872,
+                        "y": 510,
+                        "width": 136,
+                        "height": 291
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4086,
+            "image": "frame_4086.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1881,
+                        "y": 513,
+                        "width": 143,
+                        "height": 284
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4088,
+            "image": "frame_4088.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1898,
+                        "y": 511,
+                        "width": 147,
+                        "height": 281
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4090,
+            "image": "frame_4090.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1913,
+                        "y": 507,
+                        "width": 163,
+                        "height": 281
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4092,
+            "image": "frame_4092.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1923,
+                        "y": 504,
+                        "width": 183,
+                        "height": 278
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4094,
+            "image": "frame_4094.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1935,
+                        "y": 505,
+                        "width": 197,
+                        "height": 269
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4096,
+            "image": "frame_4096.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1944,
+                        "y": 508,
+                        "width": 208,
+                        "height": 265
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4098,
+            "image": "frame_4098.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1955,
+                        "y": 510,
+                        "width": 204,
+                        "height": 260
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4100,
+            "image": "frame_4100.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1966,
+                        "y": 513,
+                        "width": 196,
+                        "height": 256
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4102,
+            "image": "frame_4102.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1980,
+                        "y": 516,
+                        "width": 180,
+                        "height": 251
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4104,
+            "image": "frame_4104.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1991,
+                        "y": 516,
+                        "width": 170,
+                        "height": 251
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4106,
+            "image": "frame_4106.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1997,
+                        "y": 514,
+                        "width": 164,
+                        "height": 260
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4108,
+            "image": "frame_4108.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2001,
+                        "y": 510,
+                        "width": 160,
+                        "height": 269
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4110,
+            "image": "frame_4110.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2001,
+                        "y": 503,
+                        "width": 160,
+                        "height": 280
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4112,
+            "image": "frame_4112.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2004,
+                        "y": 495,
+                        "width": 160,
+                        "height": 290
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4114,
+            "image": "frame_4114.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2009,
+                        "y": 493,
+                        "width": 167,
+                        "height": 302
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4116,
+            "image": "frame_4116.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2014,
+                        "y": 494,
+                        "width": 176,
+                        "height": 302
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4118,
+            "image": "frame_4118.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2022,
+                        "y": 494,
+                        "width": 169,
+                        "height": 299
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4120,
+            "image": "frame_4120.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2034,
+                        "y": 496,
+                        "width": 158,
+                        "height": 299
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4122,
+            "image": "frame_4122.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2044,
+                        "y": 493,
+                        "width": 158,
+                        "height": 299
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4124,
+            "image": "frame_4124.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2051,
+                        "y": 488,
+                        "width": 158,
+                        "height": 307
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4126,
+            "image": "frame_4126.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2057,
+                        "y": 482,
+                        "width": 158,
+                        "height": 313
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4128,
+            "image": "frame_4128.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2061,
+                        "y": 482,
+                        "width": 161,
+                        "height": 313
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4130,
+            "image": "frame_4130.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2068,
+                        "y": 483,
+                        "width": 159,
+                        "height": 313
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4132,
+            "image": "frame_4132.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2072,
+                        "y": 484,
+                        "width": 155,
+                        "height": 313
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4134,
+            "image": "frame_4134.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2075,
+                        "y": 485,
+                        "width": 155,
+                        "height": 311
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4136,
+            "image": "frame_4136.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2076,
+                        "y": 485,
+                        "width": 155,
+                        "height": 311
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4138,
+            "image": "frame_4138.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2079,
+                        "y": 483,
+                        "width": 155,
+                        "height": 311
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4140,
+            "image": "frame_4140.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2079,
+                        "y": 477,
+                        "width": 155,
+                        "height": 316
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4142,
+            "image": "frame_4142.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2079,
+                        "y": 474,
+                        "width": 154,
+                        "height": 319
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4144,
+            "image": "frame_4144.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2077,
+                        "y": 474,
+                        "width": 154,
+                        "height": 319
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4146,
+            "image": "frame_4146.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2081,
+                        "y": 476,
+                        "width": 151,
+                        "height": 319
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4148,
+            "image": "frame_4148.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2082,
+                        "y": 478,
+                        "width": 149,
+                        "height": 319
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4150,
+            "image": "frame_4150.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2088,
+                        "y": 478,
+                        "width": 144,
+                        "height": 318
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4152,
+            "image": "frame_4152.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2094,
+                        "y": 478,
+                        "width": 144,
+                        "height": 318
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4154,
+            "image": "frame_4154.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2097,
+                        "y": 473,
+                        "width": 141,
+                        "height": 318
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4156,
+            "image": "frame_4156.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2097,
+                        "y": 471,
+                        "width": 143,
+                        "height": 322
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4158,
+            "image": "frame_4158.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2097,
+                        "y": 470,
+                        "width": 150,
+                        "height": 322
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4160,
+            "image": "frame_4160.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2101,
+                        "y": 469,
+                        "width": 148,
+                        "height": 324
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4162,
+            "image": "frame_4162.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2105,
+                        "y": 470,
+                        "width": 141,
+                        "height": 324
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4164,
+            "image": "frame_4164.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2103,
+                        "y": 470,
+                        "width": 137,
+                        "height": 324
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4166,
+            "image": "frame_4166.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2098,
+                        "y": 473,
+                        "width": 137,
+                        "height": 321
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4168,
+            "image": "frame_4168.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2094,
+                        "y": 468,
+                        "width": 137,
+                        "height": 326
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4170,
+            "image": "frame_4170.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2087,
+                        "y": 469,
+                        "width": 138,
+                        "height": 326
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4172,
+            "image": "frame_4172.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2084,
+                        "y": 469,
+                        "width": 138,
+                        "height": 326
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4174,
+            "image": "frame_4174.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2083,
+                        "y": 469,
+                        "width": 138,
+                        "height": 326
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4176,
+            "image": "frame_4176.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2081,
+                        "y": 469,
+                        "width": 134,
+                        "height": 326
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4178,
+            "image": "frame_4178.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2084,
+                        "y": 469,
+                        "width": 128,
+                        "height": 324
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4180,
+            "image": "frame_4180.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2086,
+                        "y": 469,
+                        "width": 127,
+                        "height": 324
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4182,
+            "image": "frame_4182.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2086,
+                        "y": 470,
+                        "width": 127,
+                        "height": 320
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4184,
+            "image": "frame_4184.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2086,
+                        "y": 470,
+                        "width": 127,
+                        "height": 320
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4186,
+            "image": "frame_4186.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2086,
+                        "y": 466,
+                        "width": 131,
+                        "height": 327
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4188,
+            "image": "frame_4188.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2088,
+                        "y": 467,
+                        "width": 125,
+                        "height": 327
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4190,
+            "image": "frame_4190.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2088,
+                        "y": 467,
+                        "width": 119,
+                        "height": 327
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4192,
+            "image": "frame_4192.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2088,
+                        "y": 467,
+                        "width": 117,
+                        "height": 327
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4194,
+            "image": "frame_4194.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2084,
+                        "y": 467,
+                        "width": 115,
+                        "height": 323
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4196,
+            "image": "frame_4196.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2080,
+                        "y": 467,
+                        "width": 114,
+                        "height": 323
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4198,
+            "image": "frame_4198.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2074,
+                        "y": 467,
+                        "width": 114,
+                        "height": 323
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4200,
+            "image": "frame_4200.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2068,
+                        "y": 467,
+                        "width": 120,
+                        "height": 323
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4202,
+            "image": "frame_4202.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2065,
+                        "y": 467,
+                        "width": 120,
+                        "height": 323
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4204,
+            "image": "frame_4204.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2062,
+                        "y": 467,
+                        "width": 123,
+                        "height": 323
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4206,
+            "image": "frame_4206.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2059,
+                        "y": 467,
+                        "width": 123,
+                        "height": 312
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4208,
+            "image": "frame_4208.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2060,
+                        "y": 467,
+                        "width": 123,
+                        "height": 312
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4210,
+            "image": "frame_4210.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2065,
+                        "y": 467,
+                        "width": 118,
+                        "height": 312
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4212,
+            "image": "frame_4212.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2068,
+                        "y": 467,
+                        "width": 113,
+                        "height": 309
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4214,
+            "image": "frame_4214.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2067,
+                        "y": 467,
+                        "width": 116,
+                        "height": 308
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4216,
+            "image": "frame_4216.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2067,
+                        "y": 467,
+                        "width": 114,
+                        "height": 308
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4218,
+            "image": "frame_4218.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2064,
+                        "y": 467,
+                        "width": 111,
+                        "height": 308
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4220,
+            "image": "frame_4220.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2060,
+                        "y": 467,
+                        "width": 111,
+                        "height": 308
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4222,
+            "image": "frame_4222.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2058,
+                        "y": 467,
+                        "width": 111,
+                        "height": 308
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4224,
+            "image": "frame_4224.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2055,
+                        "y": 467,
+                        "width": 111,
+                        "height": 315
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4226,
+            "image": "frame_4226.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2050,
+                        "y": 467,
+                        "width": 111,
+                        "height": 315
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4228,
+            "image": "frame_4228.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2045,
+                        "y": 467,
+                        "width": 111,
+                        "height": 305
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4230,
+            "image": "frame_4230.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2045,
+                        "y": 467,
+                        "width": 111,
+                        "height": 305
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4232,
+            "image": "frame_4232.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2038,
+                        "y": 467,
+                        "width": 116,
+                        "height": 305
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4234,
+            "image": "frame_4234.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2033,
+                        "y": 467,
+                        "width": 120,
+                        "height": 305
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4236,
+            "image": "frame_4236.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2026,
+                        "y": 467,
+                        "width": 125,
+                        "height": 301
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4238,
+            "image": "frame_4238.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2026,
+                        "y": 467,
+                        "width": 121,
+                        "height": 301
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4240,
+            "image": "frame_4240.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2026,
+                        "y": 467,
+                        "width": 119,
+                        "height": 297
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4242,
+            "image": "frame_4242.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2027,
+                        "y": 467,
+                        "width": 119,
+                        "height": 292
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4244,
+            "image": "frame_4244.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2033,
+                        "y": 467,
+                        "width": 113,
+                        "height": 292
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4246,
+            "image": "frame_4246.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2033,
+                        "y": 467,
+                        "width": 110,
+                        "height": 292
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4248,
+            "image": "frame_4248.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2033,
+                        "y": 467,
+                        "width": 99,
+                        "height": 292
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4250,
+            "image": "frame_4250.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2026,
+                        "y": 462,
+                        "width": 101,
+                        "height": 296
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4252,
+            "image": "frame_4252.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2019,
+                        "y": 462,
+                        "width": 106,
+                        "height": 294
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4254,
+            "image": "frame_4254.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2013,
+                        "y": 462,
+                        "width": 103,
+                        "height": 291
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4256,
+            "image": "frame_4256.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2007,
+                        "y": 462,
+                        "width": 103,
+                        "height": 285
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4258,
+            "image": "frame_4258.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 2002,
+                        "y": 462,
+                        "width": 100,
+                        "height": 283
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4260,
+            "image": "frame_4260.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1995,
+                        "y": 462,
+                        "width": 103,
+                        "height": 283
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4262,
+            "image": "frame_4262.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1986,
+                        "y": 463,
+                        "width": 109,
+                        "height": 281
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4264,
+            "image": "frame_4264.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1979,
+                        "y": 463,
+                        "width": 113,
+                        "height": 280
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4266,
+            "image": "frame_4266.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1973,
+                        "y": 462,
+                        "width": 113,
+                        "height": 280
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4268,
+            "image": "frame_4268.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1971,
+                        "y": 462,
+                        "width": 110,
+                        "height": 280
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4270,
+            "image": "frame_4270.jpg",
+            "annotations": [
+                {
+                    "label": {
+                        "x": 1970,
+                        "y": 462,
+                        "width": 109,
+                        "height": 274
+                    },
+                    "category": {
+                        "code": "turnstile_trespassing",
+                        "attributes": []
+                    }
+                }
+            ]
+        }
+    ]
+}
