@@ -1,0 +1,13 @@
+# Web Framework
+fastapi
+uvicorn[standard]
+
+# Database (PostgreSQL & ORM)
+sqlalchemy
+psycopg2-binary
+alembic  # 데이터베이스 마이그레이션 도구 (선택사항이지만 권장)
+
+# Validation & Utilities
+pydantic[email]
+python-multipart  # 파일 업로드 등을 처리할 경우 필요
+requests          # 외부 API 호출(또는 AI 서버 통신)용

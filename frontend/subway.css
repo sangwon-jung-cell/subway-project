@@ -1,0 +1,129 @@
+:root {
+    --danger-color: #ff4d4d;
+    --warning-color: #ffcc00;
+    --expiring-color: #a855f7; /* 삭제 임박 데이터 강조색 (보라) */
+    --dark-bg: #0a0a0a;
+    --card-bg: #1e1e1e;
+    --border-color: #333;
+    --text-color: #ffffff;
+    --text-secondary: #aaaaaa;
+    --accent-color: #d4ff33;
+}
+
+body {
+    font-family: 'Pretendard', sans-serif;
+    background-color: var(--dark-bg);
+    color: var(--text-color);
+    margin: 0; padding: 20px;
+}
+
+header {
+    border-bottom: 2px solid var(--border-color);
+    padding-bottom: 15px; margin-bottom: 20px;
+    display: flex; justify-content: space-between; align-items: center;
+}
+
+#status { color: #4caf50; font-weight: bold; }
+
+.nav-tabs { display: flex; gap: 10px; margin-bottom: 20px; }
+.tab-button {
+    background: #2a2a2a; color: var(--text-secondary);
+    border: 1px solid var(--border-color); padding: 10px 20px;
+    border-radius: 8px; cursor: pointer; font-weight: bold;
+}
+.tab-button.active { background: var(--danger-color); color: white; }
+
+.view-content { display: none; }
+.view-content.active { display: block; }
+
+/* 메인 스캐너 */
+.scanner-container { display: flex; flex-direction: column; align-items: center; padding: 40px 0; }
+.main-circle {
+    position: relative; width: 260px; height: 260px;
+    background: var(--accent-color); border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    cursor: pointer; transition: 0.3s;
+}
+.main-icon-img { width: 70px; height: 70px; margin-bottom: 10px; }
+.circle-inner { text-align: center; color: #000; z-index: 10; }
+.status-text { font-size: 1.1rem; font-weight: 900; line-height: 1.2; }
+
+.scanner-line {
+    position: absolute; width: 300px; height: 300px;
+    border: 1px solid rgba(212, 255, 51, 0.2); border-radius: 40%;
+    animation: rotate 10s linear infinite;
+}
+.scanner-line.second {
+    width: 320px; height: 320px;
+    border: 1px dashed rgba(212, 255, 51, 0.4);
+    animation: rotate 15s linear infinite reverse;
+}
+@keyframes rotate { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+
+/* 테스트 존 */
+.test-zone { margin-top: 40px; text-align: center; }
+.info-msg { color: var(--warning-color); font-size: 0.85rem; margin-bottom: 15px; }
+.test-buttons {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    flex-wrap: wrap; /* 버튼이 많아질 경우 대비 */
+}
+
+.test-buttons button {
+    background: #222;
+    border: 1px solid #444;
+    color: #ccc;
+    padding: 8px 15px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 0.85rem;
+    transition: 0.2s;
+}
+
+/* 초기화 버튼 전용 스타일 */
+.test-buttons button.reset-btn {
+    border-color: rgba(255, 77, 77, 0.5);
+    color: var(--danger-color);
+}
+
+.test-buttons button.reset-btn:hover {
+    background: var(--danger-color);
+    color: white;
+    box-shadow: 0 0 15px rgba(255, 77, 77, 0.3);
+}
+
+/* 기록 화면 */
+.warning-text { color: var(--expiring-color); font-size: 0.9rem; margin-bottom: 20px; }
+.history-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 20px; }
+.history-card { background: var(--card-bg); border-radius: 12px; overflow: hidden; border: 1px solid var(--border-color); cursor: pointer; }
+
+/* 7일차 데이터 강조 스타일 */
+.history-card.expiring {
+    border: 2px solid var(--expiring-color);
+    box-shadow: 0 0 15px rgba(168, 85, 247, 0.3);
+}
+.expiring-label {
+    background: var(--expiring-color); color: white;
+    font-size: 0.7rem; padding: 2px 8px; font-weight: bold;
+    text-align: center;
+}
+
+.history-card img { width: 100%; height: 130px; object-fit: cover; }
+.card-body { padding: 12px; }
+
+/* 알림창 (수정된 버전) */
+#alertModal {
+    display: none; position: fixed; top: 50%; left: 50%;
+    transform: translate(-50%, -50%); width: 90%; max-width: 400px;
+    background-color: #000; border: 3px solid var(--danger-color);
+    padding: 40px 30px; border-radius: 24px; text-align: center; z-index: 1000;
+    box-shadow: 0 0 30px rgba(255, 77, 77, 0.4);
+    animation: alert-appear 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+@keyframes alert-appear {
+    from { opacity: 0; transform: translate(-50%, -50%) scale(0.9); }
+    to { opacity: 1; transform: translate(-50%, -50%) scale(1); }
+}
+#modalOverlay { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.85); z-index: 999; }
+.modal-btn { background: var(--danger-color); color: white; border: none; padding: 12px 30px; border-radius: 30px; font-weight: bold; cursor: pointer; margin-top: 20px; }
