@@ -10,7 +10,7 @@ WORKDIR /usr/src/app
 # RUN pip install --no-cache-dir pandas
 
 # 4. 현재 폴더의 모든 파일(.py, .yaml 등)을 컨테이너 내부로 복사
-COPY . .
+# COPY . .
 
 # 5. 기본 터미널 환경 설정
 CMD ["/bin/bash"]

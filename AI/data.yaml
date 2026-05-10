@@ -7,5 +7,5 @@ val: images/val      # 검증용 이미지
 test: images/test    # 테스트용 이미지 (없으면 생략 가능)
 
 # 3. 클래스 정보
-nc: 2
-names: ['person', 'turnstile_trespassing']
+nc: 3
+names: ['normal', 'jump', 'down']
