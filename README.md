@@ -2,16 +2,27 @@
 1. 코드 가져오기:
 
   git clone https://github.com/sangwon-jung-cell/subway-project.git
+
+  # 충돌 방지
+  git fetch origin # 원격 변경사항 확인
+  git diff main origin/main # 차이점 비교
+  git merge origin/main         # 내 로컬 경로의 파일과 main branch 내용 병합
+
+  #  git pull을 하기 전에는 로컬에서 작업하던 내용을 commit 하거나 stash (임시 저장) 해두는 것이 좋습니다. 작업 중인 변경 사항이 남아있으면 git pull 명령어가 실행되지 않고 에러를 뱉을 수 있거든요.
+
+  git pull origin main          # 로컬에서 수정한 게 없다면
+  git pull --rebase origin main # 커밋이 만들어져있다면
   
 
 2. 데이터 준비:
+
   # 폴더 등을 직접 만들고 본인이 가진 사진 넣기
   # 이미지 이름과 txt파일 이름이 동일해야 YOLO 학습 가능
   예를들어: subway-project/AI/yolo_dataset/images/train/img1.jpg
           subway-project/AI/yolo_dataset/labels/train/img1.jpg
 
 
-3. 도커 빌드:
+3. 도커 빌드하기:
 
   # (본인경로)../subway-project
   docker-compose up --build # 맨 처음 이미지 생성
@@ -27,7 +38,7 @@
   docker exec -it subway_ai /bin/bash
 
 
-* 파일 구조가 이렇게 되어있어야 됨
+# 파일 구조가 이렇게 되어있어야 됨
 
 subway-project/
 └── AI/
@@ -61,4 +72,5 @@ subway-project/
 
 ## 🚀 학습 방법 (Training)
 # yolo_dataset 상위 폴더(보통 /usr/src/app)에서 실행(batch size, epochs, imgsz 수정 가능)
+
 yolo task=detect mode=train model=yolov8n.pt data=data.yaml epochs=100 imgsz=640 batch=16
