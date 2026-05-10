@@ -10,23 +10,25 @@ SQLALCHEMY_DATABASE_URL = os.getenv("DATABASE_URL", "postgresql://myuser:mypassw
 engine = create_engine(SQLALCHEMY_DATABASE_URL)
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 
-# 1. 관리자 테이블
+# 1. 관리자 테이블 (로그인 및 설정용)
 class Admin(Base):
     __tablename__ = "admins"
-    id = Column(Integer, primary_key=True)
-    username = Column(String, unique=True)
+    id = Column(Integer, primary_key=True, index=True)
+    username = Column(String, unique=True, index=True)
     password = Column(String)
 
-# 2. 개찰구 테이블
-
-
-# 3. 행위 로그 테이블
+# 2. 행위 로그 테이블 (핵심 데이터 저장)
 class IntrusionLog(Base):
     __tablename__ = "intrusion_logs"
-    id = Column(Integer, primary_key=True)
-    gate_id = Column(String, ForeignKey("gates.id"))
-    event_type = Column(String) # Jumping, Crawling
-    bbox_coords = Column(JSON)  # [x, y, w, h]
-    confidence = Column(Float)  # 신뢰도
-    image_path = Column(String) # 이미지 경로
-    detected_at = Column(DateTime, default=datetime.datetime.utcnow) # 감지된 시간
+    id = Column(Integer, primary_key=True, index=True)
+    
+    # 감지 정보
+    event_type = Column(String)  # 'Jumping' 또는 'Crawling'
+    confidence = Column(Float)   # YOLO 모델의 확신도 (예: 0.85)
+    
+    # 증거 데이터
+    image_path = Column(String)  # 서버 내 static 폴더에 저장된 이미지 경로
+    
+    # 시간 정보
+    # utcnow 대신 local 시간을 쓰고 싶다면 서비스 성격에 맞춰 조정 가능합니다.
+    detected_at = Column(DateTime, default=datetime.datetime.utcnow, index = True)

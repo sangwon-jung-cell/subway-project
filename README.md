@@ -3,45 +3,62 @@
 
   git clone https://github.com/sangwon-jung-cell/subway-project.git
   
-  cd subway-project
 
 2. 데이터 준비:
+  # 폴더 등을 직접 만들고 본인이 가진 사진 넣기
+  # 이미지 이름과 txt파일 이름이 동일해야 YOLO 학습 가능
+  예를들어: subway-project/AI/yolo_dataset/images/train/img1.jpg
+          subway-project/AI/yolo_dataset/labels/train/img1.jpg
 
-  yolo_dataset/images/train 폴더 등을 직접 만들고 본인이 가진 사진 넣기
-  aihub_json_folder/ 폴더 만들고 JSON 파일 넣기
 
-3. 도커 빌드 및 변환:
+3. 도커 빌드:
 
-  docker build -t subway-yolo .
-  변환 스크립트 실행해서 .txt 파일들 생성 확인
+  # (본인경로)../subway-project
+  docker-compose up --build # 맨 처음 이미지 생성
+  docker exec -it subway_ai Nvidia-smi # GPU 잘 잡히는지 확인
 
-도커 컨테이너 실행 명령어(gpu 사용)
-  docker run -it --gpus all -v ${PWD}:/usr/src/app subway-yolo
-  
-  nvidia-smi (이 명령어 쳐보고 gpu 모델명과 메모리 정표가 표로 뜬다면 성공)
+  다시 시작: docker-compose up (이미 빌드된 이미지를 사용해 바로 컨테이너 실행)
+  완전히 끄기: docker-compose down (실행 중인 컨테이너를 멈추고 삭제. 이미지는 그대로 남음)
+
+
+4. 컨테이너 내부 접속
+
+  # 컨테이너가 실행 중일 때
+  docker exec -it subway_ai /bin/bash
+
 
 * 파일 구조가 이렇게 되어있어야 됨
 
 subway-project/
-├── yolo_dataset/          # data.yaml의 path와 일치
-│   ├── images/
-│   │   ├── train/         # 학습용 이미지들 (.jpg)
-│   │   └── val/           # 검증용 이미지들
-│   └── labels/
-│       ├── train/         # 학습용 라벨들 (.txt)
-│       └── val/           # 검증용 라벨들
-├── data.yaml              
-├── Dockerfile
-└── json_txt_conv.py       # json 라벨링 데이터를 yolo 학습용 .txt 파일로 변환
+└── AI/
+|    ├── Dockerfile_ai
+|    ├── data.yaml
+|    ├── train.py
+|    └── yolo_dataset/   <-- data.yaml의 path가 가리키는 곳
+|        ├── images/
+|        │   ├── train/
+|        │   ├── val/
+|        │   └── test/
+|        └── labels/     <-- 이미지와 같은 구조의 라벨 폴더가 필요함
+|            ├── train/
+|            ├── val/
+|            └── test/
+|
+└── backend/
+|         ├── database.py
+|         ├── requirements.txt
+|         ├── static # 무단침입 발생시 캡쳐한 이미지 저장 겨로
+|         ├── main.py
+|         ├── Dockerfile_backend
+|         └── __pycache__
+|
+|
+└── frontend/
+          ├── .html
+          ├── .css
+          ├── .js
 
 
 ## 🚀 학습 방법 (Training)
-
-1. 컨테이너 실행:
-   `docker run -it --gpus all -v ${PWD}:/usr/src/app subway-yolo`
-
-2. 데이터 변환 (필요 시):
-   `python json_txt_conv.py`
-
-3. YOLOv8 학습 시작:
-   `yolo task=detect mode=train model=yolov8n.pt data=data.yaml epochs=50 imgsz=640`
+# yolo_dataset 상위 폴더(보통 /usr/src/app)에서 실행(batch size, epochs, imgsz 수정 가능)
+yolo task=detect mode=train model=yolov8n.pt data=data.yaml epochs=100 imgsz=640 batch=16
