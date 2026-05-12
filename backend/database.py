@@ -10,6 +10,8 @@ SQLALCHEMY_DATABASE_URL = os.getenv("DATABASE_URL", "postgresql://myuser:mypassw
 engine = create_engine(SQLALCHEMY_DATABASE_URL)
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 
+
+
 # 1. 관리자 테이블 (로그인 및 설정용)
 class Admin(Base):
     __tablename__ = "admins"
@@ -32,3 +34,4 @@ class IntrusionLog(Base):
     # 시간 정보
     # utcnow 대신 local 시간을 쓰고 싶다면 서비스 성격에 맞춰 조정 가능합니다.
     detected_at = Column(DateTime, default=datetime.datetime.utcnow, index = True)
+
