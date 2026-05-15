@@ -25,3 +25,9 @@
 
 
 
+/app/ (여기가 파이썬이 실행되는 시작점)
+├── main.py
+├── api/
+│   └── detection.py
+└── model/
+    └── best.pt

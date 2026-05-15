@@ -3,6 +3,10 @@ from sqlalchemy.orm import relationship, sessionmaker
 import datetime
 import os
 from sqlalchemy.ext.declarative import declarative_base
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
 
 #Base
 Base = declarative_base()
@@ -13,6 +17,7 @@ SQLALCHEMY_DATABASE_URL = os.getenv("DATABASE_URL", "postgresql://myuser:mypassw
 engine = create_engine(SQLALCHEMY_DATABASE_URL)
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 
+<<<<<<< Updated upstream
 #db연결하되, disconnect 안되면 session한도 초과될 수 있으니 yield 로 멈추고 session break할때 다시 호출하기
 #백엔드에서 import해서 사용
 def get_db():
@@ -21,6 +26,11 @@ def get_db():
         yield db
     finally:
         db.close()
+=======
+# 2. Base 선언
+Base = declarative_base()
+
+>>>>>>> Stashed changes
 
 # 1. 관리자 테이블 (로그인 및 설정용)
 class Users(Base):
