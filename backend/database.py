@@ -3,36 +3,27 @@ from sqlalchemy.orm import relationship, sessionmaker
 import datetime
 import os
 from sqlalchemy.ext.declarative import declarative_base
-<<<<<<< Updated upstream
-=======
 
->>>>>>> Stashed changes
-
-#Base
+# 1. Base 선언 (중복되었던 부분 하나로 통합)
 Base = declarative_base()
 
-# 도커 컴포즈에서 설정한 환경 변수를 가져옵니다. 없을 경우 기본값 사용.
+# 도커 컴포즈에서 설정한 환경 변수를 가져옵니다.
 SQLALCHEMY_DATABASE_URL = os.getenv("DATABASE_URL", "postgresql://myuser:mypassword@localhost:5432/subway_db")
 
 engine = create_engine(SQLALCHEMY_DATABASE_URL)
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 
-<<<<<<< Updated upstream
-#db연결하되, disconnect 안되면 session한도 초과될 수 있으니 yield 로 멈추고 session break할때 다시 호출하기
-#백엔드에서 import해서 사용
+# db 연결 세션 관리 (팀원이 추가한 핵심 로직)
 def get_db():
     db = SessionLocal()
     try:
         yield db
     finally:
         db.close()
-=======
-# 2. Base 선언
-Base = declarative_base()
 
->>>>>>> Stashed changes
+# --- 아래는 상원님이 정의하신 테이블 모델들 ---
 
-# 1. 관리자 테이블 (로그인 및 설정용)
+# 1. 관리자 테이블
 class Users(Base):
     __tablename__ = "users"
     id = Column(Integer, primary_key=True, index=True)
@@ -43,19 +34,17 @@ class Users(Base):
 class Detection_table(Base):
     __tablename__ = "detection_logs"
     id = Column(Integer, primary_key=True, index=True)
-
     gate_id = Column(Integer)
     
     # 감지 정보
     event_type = Column(String)  # jump or down
-    confidence = Column(Float)   # YOLO 모델의 확신도 (예: 0.85)
+    confidence = Column(Float)   # YOLO 모델의 확신도
     
     # 증거 데이터
     image_path = Column(String)  # 서버 내 static 폴더에 저장된 이미지 경로
     
     # 시간 정보
-    # utcnow 대신 local 시간을 쓰고 싶다면 서비스 성격에 맞춰 조정 가능합니다.
-    detected_at = Column(DateTime, default=datetime.datetime.utcnow, index = True)
+    detected_at = Column(DateTime, default=datetime.datetime.utcnow, index=True)
 
 class Gates(Base):
     __tablename__ = "Gates"
@@ -65,4 +54,4 @@ class Gates(Base):
 class Station(Base):
     __tablename__ = "Station"
     id = Column(Integer, primary_key=True, index=True)
-    station_name = Column(String, unique = True)
+    station_name = Column(String, unique=True)
