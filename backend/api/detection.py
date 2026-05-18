@@ -77,13 +77,27 @@ async def detect_and_notify(file: UploadFile = File(...), db: Session = Depends(
             "confidence": max_confidence
         }
 
-    # 4. 'normal'인 경우 DB 저장도 안 하고 웹소켓도 안 보내고 파일만 지우거나 안전 반환
+# 4. 'normal'인 경우 (테스트를 위해 임시로 웹소켓 전송 추가)
     else:
+        # ---------------- [테스트용 웹소켓 발송 코드] ----------------
+        try:
+            # manager가 main.py나 manager.py에서 잘 임포트되어 있는지 확인해 주세요!
+            await manager.broadcast({
+                "event": "SAFE_PASSAGE",
+                "message": "정상 통행이 감지되었습니다.",
+                "gate_id": 1,  # 임시 게이트 번호
+                "status": "normal"
+            })
+            print("🟢 [TEST] normal 상태 웹소켓 알림 브로드캐스트 성공")
+        except Exception as e:
+            print(f"🔴 [TEST] 웹소켓 발송 실패: {e}")
+        # ---------------------------------------------------------
+
         # 무단침입이 아니므로 서버 용량을 위해 저장했던 이미지를 지워줍니다.
         if os.path.exists(save_path):
             os.remove(save_path)
             
         return {
             "status": "safe", 
-            "message": "정상 통행이 감지되어 기록되지 않았습니다."
+            "message": "정상 통행이 감지되어 기록되지 않았습니다. (테스트 알림 발송됨)"
         }
