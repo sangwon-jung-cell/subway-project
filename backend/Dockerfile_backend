@@ -1,14 +1,10 @@
-# 1. 파이썬 3.11 슬림 버전 사용 (가볍고 빠름)
+# 1. 파이썬 3.11 슬림 버전 사용
 FROM python:3.11-slim
 
-# 2. 필수 시스템 패키지 설치
-# postgresql-client: DB 접속 확인용
-# libpq-dev, gcc: psycopg2-binary 빌드 및 실행에 필요
+# 2. 필수 시스템 패키지 설치 (에러 나던 xcb 서브 패키지 삭제 및 간소화)
 RUN apt-get update && apt-get install -y \
-    libgl1-mesa-glx \
+    libgl1 \
     libglib2.0-0 \
-    libxcb1 \
-    libx11-6 \
     postgresql-client \
     libpq-dev \
     gcc \
@@ -18,18 +14,15 @@ RUN apt-get update && apt-get install -y \
 WORKDIR /app
 
 # 4. 의존성 파일 복사 및 설치
-# 이미지 빌드 시간을 줄이기 위해 requirements.txt를 먼저 복사합니다.
 COPY requirements.txt .
 RUN pip install --no-cache-dir --upgrade pip && \
     pip install --no-cache-dir -r requirements.txt
 
 # 5. 소스 코드 복사
-# (docker-compose에서 볼륨 연결을 하더라도, 빌드 시점에 복사해두는 것이 안정적입니다)
 COPY . .
 
 # 6. 실행 포트 노출
 EXPOSE 8000
 
 # 7. 실행 명령
-# --host 0.0.0.0은 컨테이너 외부(호스트)에서 접속할 수 있게 해줍니다.
 CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000", "--reload"]
