@@ -19,9 +19,9 @@ services:
       context: ./backend
       dockerfile: Dockerfile_backend
     container_name: subway_backend
-    volumes:
-      - ./backend:/app
-      - ./backend/static:/app/static
+#    volumes:
+#      - ./backend:/app
+#      - ./backend/static:/app/static
     ports:
       - "8000:8000"
     environment:

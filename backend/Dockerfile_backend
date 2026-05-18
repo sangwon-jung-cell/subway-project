@@ -17,7 +17,10 @@ WORKDIR /app
 # 이미지 빌드 시간을 줄이기 위해 requirements.txt를 먼저 복사합니다.
 COPY requirements.txt .
 RUN pip install --no-cache-dir --upgrade pip && \
-    pip install --no-cache-dir -r requirements.txt
+    pip install --no-cache-dir -r requirements.txt && \
+    # ultralytics 의존성때문에 opencv 약간만 수정할게용
+    pip uninstall -y opencv-python opencv-python-distrib && \
+    pip install --no-cache-dir opencv-python-headless
 
 # 5. 소스 코드 복사
 # (docker-compose에서 볼륨 연결을 하더라도, 빌드 시점에 복사해두는 것이 안정적입니다)
