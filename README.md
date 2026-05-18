@@ -31,3 +31,8 @@
 │   └── detection.py
 └── model/
     └── best.pt
+
+
+
+
+http://localhost:8000/static/index.html 경로로 열어서 테스트

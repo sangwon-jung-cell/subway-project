@@ -13,6 +13,9 @@ async def detect_and_notify(file: UploadFile = File(...), db: Session = Depends(
     if yolo_model is None:
         return {"status": "error", "message": "YOLO 모델이 로드되지 않았습니다."}
 
+    # [안전장치] static 폴더가 없으면 자동으로 생성해 줍니다.
+    os.makedirs("static", exist_ok=True)
+
     # 1. 프론트/CCTV가 보낸 이미지를 임시 혹은 static에 물리 파일로 저장
     ext = os.path.splitext(file.filename)[1]
     unique_filename = f"{uuid.uuid4()}{ext}"
@@ -20,6 +23,8 @@ async def detect_and_notify(file: UploadFile = File(...), db: Session = Depends(
 
     # save_path가 윈도우에서 'static\\file.jpg'로 잡히더라도 웹 주소용인 슬래시('/')로 변환해줍니다.
     web_image_path = save_path.replace("\\", "/")
+    # 프론트엔드가 접근할 완전한 이미지 웹 URL 주소 구성
+    full_image_url = f"http://localhost:8000/{web_image_path}"
 
     with open(save_path, "wb") as buffer:
         buffer.write(await file.read())
@@ -28,7 +33,7 @@ async def detect_and_notify(file: UploadFile = File(...), db: Session = Depends(
     results = yolo_model(save_path)
     
     # YOLO 결과물에서 클래스명과 확신도(confidence) 추출하기
-    detected_class = "normal"  # 기본값 정성
+    detected_class = "normal"  # 기본값 정상
     max_confidence = 0.0
 
     for result in results:
@@ -67,37 +72,40 @@ async def detect_and_notify(file: UploadFile = File(...), db: Session = Depends(
                 "event_type": new_log.event_type,
                 "confidence": new_log.confidence,
                 "time": new_log.detected_at.strftime("%Y-%m-%d %H:%M:%S"),
-                "image_url": f"http://localhost:8000/{web_image_path}" # 프론트에서 띄울 이미지 주소
+                "image_url": full_image_url  # 프론트에서 띄울 이미지 주소
             }
         })
         
         return {
             "status": "intrusion_detected", 
             "event_type": detected_class, 
-            "confidence": max_confidence
+            "confidence": max_confidence,
+            "image_url": full_image_url
         }
 
-# 4. 'normal'인 경우 (테스트를 위해 임시로 웹소켓 전송 추가)
+    # 4. 'normal'인 경우 (테스트 및 프론트 이미지 연동 확인용)
     else:
         # ---------------- [테스트용 웹소켓 발송 코드] ----------------
         try:
-            # manager가 main.py나 manager.py에서 잘 임포트되어 있는지 확인해 주세요!
             await manager.broadcast({
                 "event": "SAFE_PASSAGE",
                 "message": "정상 통행이 감지되었습니다.",
-                "gate_id": 1,  # 임시 게이트 번호
-                "status": "normal"
+                "gate_id": 1,
+                "status": "normal",
+                "image_url": full_image_url  # 프론트 테스트를 위해 normal 일 때도 이미지 주소를 쏴줍니다!
             })
-            print("🟢 [TEST] normal 상태 웹소켓 알림 브로드캐스트 성공")
+            print("🟢 [TEST] normal 상태 웹소켓 알림 및 이미지 URL 브로드캐스트 성공")
         except Exception as e:
             print(f"🔴 [TEST] 웹소켓 발송 실패: {e}")
         # ---------------------------------------------------------
 
-        # 무단침입이 아니므로 서버 용량을 위해 저장했던 이미지를 지워줍니다.
-        if os.path.exists(save_path):
-            os.remove(save_path)
+        # ⚠️ 중요: 프론트엔드 화면에 사진이 뜨는지 테스트해야 하므로, 
+        # 임시로 os.remove(save_path) 지우는 코드를 주석 처리하여 파일이 static에 남아있게 합니다.
+        # if os.path.exists(save_path):
+        #     os.remove(save_path)
             
         return {
             "status": "safe", 
-            "message": "정상 통행이 감지되어 기록되지 않았습니다. (테스트 알림 발송됨)"
+            "message": "정상 통행이 감지되었습니다. (테스트용 이미지 주소 포함됨)",
+            "image_url": full_image_url
         }
