@@ -197,20 +197,6 @@
                     </div>
                 </div>
             `;
-      } else if (data.event === "SAFE_PASSAGE") {
-        // 정상 통행 데이터 바인딩
-        logItemHtml = `
-                <div class="log-item normal">
-                    <div class="log-details">
-                        <h3>🍏 [정상 통행]</h3>
-                        <p>${data.message} (게이트: ${data.gate_id})</p>
-                        <p class="log-time">시간: ${new Date().toLocaleTimeString()}</p>
-                    </div>
-                    <div class="log-image">
-                        <img src="${data.image_url}" alt="정상 통행 스냅샷" onerror="this.src='https://via.placeholder.com/150x100?text=No+Image'">
-                    </div>
-                </div>
-            `;
       }
 
       // 최신 로그가 맨 위에 쌓이도록 기존 리스트의 앞에 추가(insertAdjacentHTML)

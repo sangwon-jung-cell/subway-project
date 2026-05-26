@@ -83,29 +83,19 @@ async def detect_and_notify(file: UploadFile = File(...), db: Session = Depends(
             "image_url": full_image_url
         }
 
-    # 4. 'normal'인 경우 (테스트 및 프론트 이미지 연동 확인용)
+# 4. 'normal'인 경우 (무단침입이 아닌 정상 통행)
     else:
-        # ---------------- [테스트용 웹소켓 발송 코드] ----------------
-        try:
-            await manager.broadcast({
-                "event": "SAFE_PASSAGE",
-                "message": "정상 통행이 감지되었습니다.",
-                "gate_id": 1,
-                "status": "normal",
-                "image_url": full_image_url  # 프론트 테스트를 위해 normal 일 때도 이미지 주소를 쏴줍니다!
-            })
-            print("🟢 [TEST] normal 상태 웹소켓 알림 및 이미지 URL 브로드캐스트 성공")
-        except Exception as e:
-            print(f"🔴 [TEST] 웹소켓 발송 실패: {e}")
-        # ---------------------------------------------------------
+        # [A] 📡 웹소켓 알림 전송 코드를 완전히 제거하거나 주석 처리합니다.
+        # (프론트엔드로 신호 자체를 보내지 않음)
+        print("🍏 정상 통행이 감지되어 알림을 전송하지 않습니다.")
 
-        # ⚠️ 중요: 프론트엔드 화면에 사진이 뜨는지 테스트해야 하므로, 
-        # 임시로 os.remove(save_path) 지우는 코드를 주석 처리하여 파일이 static에 남아있게 합니다.
-        # if os.path.exists(save_path):
-        #     os.remove(save_path)
+        # [B] 🧹 서버 용량을 위해 임시 저장했던 정상 통행 이미지를 디스크에서 완전히 삭제합니다.
+        if os.path.exists(save_path):
+            os.remove(save_path)
+            print(f"🗑️ 정상 통행 이미지 삭제 완료: {save_path}")
             
         return {
             "status": "safe", 
-            "message": "정상 통행이 감지되었습니다. (테스트용 이미지 주소 포함됨)",
-            "image_url": full_image_url
+            "message": "정상 통행이 감지되어 기록 및 이미지가 삭제되었습니다."
         }
+        
