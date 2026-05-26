@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>지하철 무단침입 실시간 모니터링 시스템</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 20px;
+      background-color: #f5f7fa;
+      color: #333;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+
+    header {
+      background-color: #2c3e50;
+      color: white;
+      padding: 15px 20px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 24px;
+    }
+
+    .status-badge {
+      padding: 6px 12px;
+      border-radius: 20px;
+      font-weight: bold;
+      font-size: 14px;
+    }
+
+    .connecting {
+      background-color: #f39c12;
+      color: white;
+    }
+
+    .connected {
+      background-color: #2ecc71;
+      color: white;
+    }
+
+    .disconnected {
+      background-color: #e74c3c;
+      color: white;
+    }
+
+    .log-section {
+      background: white;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+    }
+
+    h2 {
+      margin-top: 0;
+      color: #2c3e50;
+      border-bottom: 2px solid #ecf0f1;
+      padding-bottom: 10px;
+    }
+
+    .log-list {
+      display: flex;
+      flex-direction: column;
+      gap: 15px;
+      margin-top: 15px;
+    }
+
+    .log-item {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 15px;
+      border-radius: 6px;
+      transition: all 0.2s ease;
+    }
+
+    /* 무단침입 스타일 (Red) */
+    .intrusion {
+      border: 2px solid #ff4d4f;
+      background-color: #fff1f0;
+    }
+
+    .intrusion h3 {
+      color: #cf1322;
+      margin: 0 0 5px 0;
+    }
+
+    /* 정상통행 스타일 (Green) */
+    .normal {
+      border: 2px solid #52c41a;
+      background-color: #f6ffed;
+    }
+
+    .normal h3 {
+      color: #389e0d;
+      margin: 0 0 5px 0;
+    }
+
+    .log-details p {
+      margin: 4px 0;
+      font-size: 14px;
+    }
+
+    .log-time {
+      font-size: 12px;
+      color: #8c8c8c;
+    }
+
+    .log-image img {
+      width: 150px;
+      height: 100px;
+      object-fit: cover;
+      border-radius: 4px;
+      border: 1px solid #d9d9d9;
+      background-color: #eee;
+    }
+
+    .empty-message {
+      text-align: center;
+      color: #95a5a6;
+      padding: 4px 0;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="container">
+    <header>
+      <h1>🚇 실시간 관제 대시보드</h1>
+      <span id="status-badge" class="status-badge connecting">연결 중...</span>
+    </header>
+
+    <div class="log-section">
+      <h2>🔔 실시간 이벤트 로그</h2>
+      <div id="log-list" class="log-list">
+        <div id="empty-msg" class="empty-message">현재 감지된 통행이 없습니다. Swagger에서 테스트해 보세요!</div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const statusBadge = document.getElementById('status-badge');
+    const logList = document.getElementById('log-list');
+    const emptyMsg = document.getElementById('empty-msg');
+
+    // 1. 백엔드 웹소켓 엔드포인트 연결 (상원님의 FastAPI 주소)
+    const ws = new WebSocket("ws://localhost:8000/ws/notifications");
+
+    ws.onopen = () => {
+      statusBadge.innerText = "✅ 시스템 연결 완료";
+      statusBadge.className = "status-badge connected";
+    };
+
+    ws.onclose = () => {
+      statusBadge.innerText = "❌ 시스템 연결 끊김";
+      statusBadge.className = "status-badge disconnected";
+    };
+
+    // 2. 백엔드에서 실시간 데이터 수신 시 실행
+    ws.onmessage = (event) => {
+      const data = JSON.parse(event.data);
+      console.log("🚨 백엔드 신호 수신:", data);
+
+      // 첫 신호가 오면 무조건 안내 문구 삭제
+      if (emptyMsg) {
+        emptyMsg.remove();
+      }
+
+      // 새로운 로그 조각(HTML)을 생성할 변수
+      let logItemHtml = '';
+
+      if (data.event === "INTRUSION_DETECTED") {
+        // 무단침입(jump, down) 데이터 바인딩
+        logItemHtml = `
+                <div class="log-item intrusion">
+                    <div class="log-details">
+                        <h3>🚨 [무단침입 감지] 유형: ${data.data.event_type}</h3>
+                        <p>위치: 게이트 ${data.data.gate} | 신뢰도: ${(data.data.confidence * 100).toFixed(1)}%</p>
+                        <p class="log-time">시간: ${data.data.time}</p>
+                    </div>
+                    <div class="log-image">
+                        <img src="${data.data.image_url}" alt="증거 스냅샷" onerror="this.src='https://via.placeholder.com/150x100?text=No+Image'">
+                    </div>
+                </div>
+            `;
+      } else if (data.event === "SAFE_PASSAGE") {
+        // 정상 통행 데이터 바인딩
+        logItemHtml = `
+                <div class="log-item normal">
+                    <div class="log-details">
+                        <h3>🍏 [정상 통행]</h3>
+                        <p>${data.message} (게이트: ${data.gate_id})</p>
+                        <p class="log-time">시간: ${new Date().toLocaleTimeString()}</p>
+                    </div>
+                    <div class="log-image">
+                        <img src="${data.image_url}" alt="정상 통행 스냅샷" onerror="this.src='https://via.placeholder.com/150x100?text=No+Image'">
+                    </div>
+                </div>
+            `;
+      }
+
+      // 최신 로그가 맨 위에 쌓이도록 기존 리스트의 앞에 추가(insertAdjacentHTML)
+      if (logItemHtml) {
+        logList.insertAdjacentHTML('afterbegin', logItemHtml);
+      }
+    };
+  </script>
+</body>
+
+</html>
