@@ -92,7 +92,7 @@ async def detect_and_notify(file: UploadFile = File(...), db: Session = Depends(
         # [B] 🧹 서버 용량을 위해 임시 저장했던 정상 통행 이미지를 디스크에서 완전히 삭제합니다.
         if os.path.exists(save_path):
             os.remove(save_path)
-            print(f"🗑️ 정상 통행 이미지 삭제 완료: {save_path}")
+        print(f"🗑️ 정상 통행 이미지 삭제 완료: {save_path}")
             
         return {
             "status": "safe", 

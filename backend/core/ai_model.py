@@ -1,7 +1,7 @@
 import os
 from ultralytics import YOLO
 
-MODEL_PATH = "model/best.pt"
+MODEL_PATH = "model/best1.pt"
 
 # 로컬에 우리 팀의 best.pt가 있으면 그걸 쓰고, 없으면 YOLO 기본 경량 모델(yolov8n.pt)을 자동으로 내려받아 사용!
 if os.path.exists(MODEL_PATH):
