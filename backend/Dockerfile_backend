@@ -16,7 +16,10 @@ WORKDIR /app
 # 4. 의존성 파일 복사 및 설치
 COPY requirements.txt .
 RUN pip install --no-cache-dir --upgrade pip && \
-    pip install --no-cache-dir -r requirements.txt
+    pip install --no-cache-dir -r requirements.txt && \
+    # ultralytics 의존성때문에 opencv 약간만 수정할게용
+    pip uninstall -y opencv-python opencv-python-distrib && \
+    pip install --no-cache-dir opencv-python-headless
 
 # 5. 소스 코드 복사
 COPY . .
